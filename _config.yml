@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+remote_theme: fongandrew/hydeout
+paginate: 5
+title: Emanuele Iannone
+description: Computer Science Master Student @ University of Salerno
+#tagline: Computer Science Master Student
+hydeout:
+  repo: https://github.com/emaiannone
+  linkedin: https://www.linkedin.com/in/emanuele-iannone-399602172/
+  facebook: https://www.facebook.com/emanuele.iannone.710
