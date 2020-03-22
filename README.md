@@ -19,7 +19,7 @@ Some prerequisites:
 1. Run `bundle install` (`bundle update` if you have already called it previously) so that all gems in the *Gemfile* will be installed, like **Jekyll**, needed to build your site your theme. In Gemfile, the gem will be installed in `usr/lib/ruby/gems`
 2. Run `bundle exec jekyll serve` to build and serve the site at **http://localhost:4000** (with auto-regeneration when files are changed but without live-reload).
 
-Make sure you have ruby/<version>/bin in your *PATH* variable, otherwise you are not able to easily call `bundle`.
+Make sure you have `~/ruby/<version>/bin` in your *PATH* variable, otherwise you are not able to easily call `bundle`.
 
 ## Jekyll Themes
 
