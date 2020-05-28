@@ -3,12 +3,32 @@
 ---
 
 $large-font-size: 1rem;
+$sidebar-bg-color: #1A2D40;
 @import "hydeout";
+
+.container > * {
+  max-width: 50em;
+}
+
+.container .content > * {
+  max-width: 100%;
+}
+
+img.emoji {
+  display: inline;
+  height: 1em;
+  width: 1em;
+  margin: 0;
+}
 
 #sidebar img {
   display: inline-block;
   border-radius: 50%;
   margin: 0;
+}
+
+#sidebar p.lead {
+  font-weight: 500;
 }
 
 .home #sidebar .site-title {
@@ -17,4 +37,21 @@ $large-font-size: 1rem;
 
 #sidebar .site-title {
   font-size: 2.5rem;
+}
+
+table thead tr th {
+  background-color: #4CAF50;
+  color: #ffffff;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #ededed;
+}
+
+article {
+  margin-left: 2rem;
 }

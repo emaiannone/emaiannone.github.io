@@ -13,20 +13,22 @@ Each time you commit to a repository with a linked website GitHub Pages, automat
 Some prerequisites:
 
 - **Ruby** language, installed on your local machine
-- **Gem** Ruby package manager, installed on your local machine
-- **Bundle** gem on your local machine, installed by `gem install bundler`
+- **Gem**, Ruby package manager, installed on your local machine
+- **Bundler** gem on your local machine, installed with `gem install bundler`
 
-1. Run `bundle install` (`bundle update` if you have already called it previously) so that all gems in the *Gemfile* will be installed, like **Jekyll**, needed to build your site your theme. In Gemfile, the gem will be installed in `usr/lib/ruby/gems`
+1. Run `bundle install` (`bundle update` if you have already called it previously) so that all gems in the *Gemfile* will be installed, such as **Jekyll**, needed to build your site with your custom theme. Gems in Gemfile will be installed in `/usr/lib/ruby/gems`
 2. Run `bundle exec jekyll serve` to build and serve the site at **http://localhost:4000** (with auto-regeneration when files are changed but without live-reload).
 
 Make sure you have `~/ruby/<version>/bin` in your *PATH* variable, otherwise you are not able to easily call `bundle`.
 
-## Jekyll Themes
+## Serving the site on remote with GitHub Pages
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emaiannone/emaiannone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Go into your [repository settings](https://github.com/emaiannone/emaiannone.github.io/settings) and apply any custom Jekyll theme you want.  
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.  
+The rest is left to GitHub Pages' Jekyll.
 
-When you want the site to be served in localhost the theme must be added as a gem into Gemfile. For remote serving this is not needed because GitHub Pages Jekyll ignores our Gemfile.
+Note that if you want to serve the site in this way only, you can avoid adding the theme gem in Gemfile.
 
 ## More on GitHub Pages
 
-Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/).
+Having trouble with GitHub Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/).

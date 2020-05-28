@@ -11,3 +11,4 @@ source "https://rubygems.org"
 
 # Uncomment this line for a Jekyll site to be deployed on GitHub Pages
 gem "github-pages", group: :jekyll_plugins
+gem "jemoji"
