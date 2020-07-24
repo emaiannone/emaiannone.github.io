@@ -11,7 +11,7 @@ sidebar_sort_order: 1
 
 <a name="icpc2020"></a>
 **[1] *Refactoring Android-specific Energy Smells: A Plugin for Android Studio***  
-**E. Iannone**, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia. *Refactoring Android-specific Energy Smells: A Plugin for Android Studio*. In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020. [[pdf]](./download/icpc2020.pdf)
+**E. Iannone**, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia. *Refactoring Android-specific Energy Smells: A Plugin for Android Studio*. In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020. [[pdf]](download/papers/iannone2020refactoring.pdf)
 
 >Mobile applications are major means to perform daily actions, including social and emergency connectivity. However, their usability is threatened by energy consumption that may be impacted by code smells, *i.e.,* symptoms of bad implementation and design practices. [...] In this paper, we extend and revise aDoctor, a tool that we previously implemented to identify energy-related smells.
 
@@ -29,10 +29,11 @@ I have various experiences as *tutor* for multiple BSc courses. I mainly offer s
 | Software Engineering | Bachelor's Degree | Fall 2018 | [Prof. A. De Lucia](https://docenti.unisa.it/003241/home) |
 | Object-Oriented Programming | Bachelor's Degree | Fall 2018 | [Prof. C. Gravino](https://docenti.unisa.it/004724/home) |
 
-[^1]: I'm doing it!
+[^1]: Ongoing
 
 ## :trophy: Other Achievements
 
+:microphone: Attendee and presenter of [*28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020)*](https://conf.researchr.org/home/icpc-2020)
 :ticket: Attendee of [*14th International Summer School on Software Engineering*](http://www.sesa.unisa.it/seschool/)
  
 ---
