@@ -6,12 +6,20 @@ $large-font-size: 1rem;
 $sidebar-bg-color: #1A2D40;
 @import "hydeout";
 
+main.container {
+  padding-top: 1.5rem;
+}
+
 .container > * {
   max-width: 50em;
 }
 
 .container .content > * {
   max-width: 100%;
+}
+
+h1#about-me {
+  margin-top: 0;
 }
 
 img.emoji {
@@ -29,6 +37,7 @@ img.emoji {
 
 #sidebar p.lead {
   font-weight: 500;
+  font-size: 0.9rem;
 }
 
 .home #sidebar .site-title {

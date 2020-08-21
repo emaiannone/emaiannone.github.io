@@ -4,7 +4,7 @@
 
 # Modifying this website
 
-You can not modify my site (!) but you can fork this repository and make your own one.
+You cannot modify my site (of course!), but you can fork this repository and make your own one.
 
 Each time you commit to a repository with a linked website GitHub Pages, automatically, will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown and HTML files and publish it in minutes.
 
