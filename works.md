@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 ## :page_with_curl: Publications
 
 <a name="icpc2020refactoring"></a>
-**[T1] *Refactoring Android-specific Energy Smells: A Plugin for Android Studio***  
+**[C1] *Refactoring Android-specific Energy Smells: A Plugin for Android Studio***  
 **E. Iannone**, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia.  
 In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020),
 Seoul, South Korea, 2020.
@@ -26,7 +26,7 @@ Seoul, South Korea, 2020.
 
 ## :microphone: Talks and Participations 
  
-- *13 July 2020* --- Presenter and Attendee of [[T1]](#icpc2020refactoring) at *Quality* session of [*28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020)*](https://conf.researchr.org/program/icpc-2020/program-icpc-2020?date=Mon%2013%20Jul%202020)
+- *13 July 2020* --- Presenter and Attendee of [[C1]](#icpc2020refactoring) at *Quality* session of [*28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020)*](https://conf.researchr.org/program/icpc-2020/program-icpc-2020?date=Mon%2013%20Jul%202020)
 - *17--21 June 2019* --- Attendee of [*14th International Summer School on Software Engineering*](http://www.sesa.unisa.it/seschool/)
 
 ---
