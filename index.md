@@ -7,30 +7,36 @@ title: Home
 
 ---
 
-:wave: Hello, I am Emanuele Iannone, a **Computer Science** M.Sc. student at
+:wave: Hello, I am Emanuele Iannone, a **Computer Science** Ph.D. student at
 [University of Salerno](https://www.unisa.it/) (Italy). I was born in Salerno (Italy) on 1st September 1996.
 
-:pencil: I am currently attending my last year, in which I'm going to present an ***Automatic Exploit Generation***
-technique, based on genetic algorithms, of Java applications that rely on OSS libraries and frameworks
-affected by [known vulnerabilities](https://cve.mitre.org/).
-The technique is based on genetic algorithms and implemented as an extension of [Evosuite](https://github.com/EvoSuite/evosuite).  
-This work is under the supervision of [Prof. F. Palomba](https://fpalomba.github.io/) and [Prof. A. De Lucia](https://docenti.unisa.it/003241/home)
+:pencil: I am currently attending my first (out three) year, in which I'm working on **Software Vulnerabilities**
+and their impact on the *Internet of Things* (e.g., Cyberphysical Systems), under the supervision of
+[Prof. F. Palomba](https://fpalomba.github.io/).
+Along this topic, I'm focusing on Automatic Exploit Generation, Automatic Test Case Generation and API usages.
 
-:mortar_board: I received (110/110 magna cum laude) the B.Sc. Degree in Computer Science at
-University of Salerno in 2018, defending a thesis on
+:mortar_board: I received (110/110 cum laude) the M.Sc. Degree in Computer Science at
+University of Salerno in September 2020, defending a thesis on
+***Automatic Exploit Generation of known Java API vulnerabilities*** in **Software Engineering**,
+advised by Prof. F. Palomba and [Prof. A. De Lucia](https://docenti.unisa.it/003241/home).  
+In July 2018, I received (110/110 magna cum laude) the B.Sc. Degree in Computer Science at
+University of Salerno, defending a thesis on
 ***Automatic Refactoring of Android-specific Energy Smells*** in **Software Engineering**,
 advised by Prof. A. De Lucia.
 
-My research interests are:
+My main research fields are:
 
-&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Software Engineering**  
-&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Software Testing  
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Search-based Software Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Software Vulnerabilities  
-&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Software Quality  
-&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Software Maintenance and Evolution  
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Software Security Engineering**  
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Vulnerability Management  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Software Testing and Debugging  
+&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Software Libraries and Repositories  
+&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Search-based Software Engineering  
 
-:nerd_face: I am fond of Anime and Videogames. I'm also getting into TV Series.
+:nerd_face: I have always been a passionate video gamers, but since my
+professional life got new perspectives, I changed my habits and got into
+anime and Tv series.
+My favourite video game series are *Final Fantasy* and *Pokémon*, while I am a great fan
+on *Attack on Titan* Tv show.
 
 [//]: # (The sources of CV is on my overleaf)
 :scroll: You can download a more detailed résumé [here](./download/resume.pdf).
@@ -63,6 +69,7 @@ My research interests are:
 
 # :telephone_receiver: Contacts
 
-| **Email (University)** | e.iannone16@studenti.unisa.it |
+| **Email (University)** | eiannone@sunisa.it |
 | **Email (Personal)** | emaiannone@hotmail.it |
 | **Skype** | emaiannone |
+| **Discord** | emaiannone |

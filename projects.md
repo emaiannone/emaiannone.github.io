@@ -13,14 +13,14 @@ I am currently working on:
 
 | Name | Kind | Description | Notes
 |:--:|:--:|:--:|:--:|
-| [SIEGE](https://github.com/emaiannone/exploit-generation) | Genetic Algorithm in Evosuite | Automatic Exploit Generation for Java applications that rely on vulnerable OSS libraries/frameworks. | M.Sc. thesis subject |
-| [aDoctor](https://github.com/emaiannone/aDoctor) | Android Studio Plugin | Android-specific Energy Smell Detector and Automatic Refactorer. | B.Sc. thesis subject |
+| [SIEGE](https://github.com/emaiannone/exploit-generation) | Genetic Algorithm in Evosuite | Automatic Exploit Generation for Java applications relying on known vulnerable API | M.Sc. thesis subject |
+| [aDoctor](https://github.com/SeSa-Lab/aDoctor) | Android Studio Plugin | Android-specific Energy Smell Detector and Automatic Refactorer | B.Sc. thesis subject |
 
 ---
 
 ## :pause_button: Other Projects
 
-During my years at University I took part of various group projects. These are the most relevant:
+During my years at University I took part of various group projects, such as:
 
 | Name | Kind | Description | Notes
 |:--:|:--:|:--:|:--:|
