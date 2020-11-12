@@ -69,7 +69,7 @@ on *Attack on Titan* Tv show.
 
 # :telephone_receiver: Contacts
 
-| **Email (University)** | eiannone@sunisa.it |
+| **Email (University)** | eiannone@unisa.it |
 | **Email (Personal)** | emaiannone@hotmail.it |
 | **Skype** | emaiannone |
 | **Discord** | emaiannone |
