@@ -12,9 +12,11 @@ Each time you commit to a repository with a linked website GitHub Pages, automat
 
 Some prerequisites:
 
-- **Ruby** language, installed on your local machine
+- **Ruby 2.7** language, installed on your local machine
 - **Gem**, Ruby package manager, installed on your local machine
 - **Bundler** gem on your local machine, installed with `gem install bundler`
+
+Beware: **Ruby 3.0** has some issues with the latest versions of Bundler.
 
 1. Run `bundle install` (`bundle update` if you have already called it previously) so that all gems in the *Gemfile* will be installed, such as **Jekyll**, needed to build your site with your custom theme. Gems in Gemfile will be installed in `/usr/lib/ruby/gems`
 2. Run `bundle exec jekyll serve` to build and serve the site at **http://localhost:4000** (with auto-regeneration when files are changed but without live-reload).

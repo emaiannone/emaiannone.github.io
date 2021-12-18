@@ -10,5 +10,9 @@ source "https://rubygems.org"
 #gem "jekyll-theme-slate"
 
 # Uncomment this line for a Jekyll site to be deployed on GitHub Pages
-gem "github-pages", group: :jekyll_plugins
+gem "commonmarker"
+group :jekyll_plugins do
+  gem "github-pages"
+  gem 'jekyll-commonmark-ghpages'
+end
 gem "jemoji"

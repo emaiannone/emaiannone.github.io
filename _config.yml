@@ -1,11 +1,12 @@
 remote_theme: fongandrew/hydeout
 paginate: 5
 title: Emanuele Iannone
-description: Computer Science Ph. D. Student @ University of Salerno
+description: Computer Science Ph.D. Student @ SeSa Lab, University of Salerno
 #tagline: Computer Science Ph. D. Student
 hydeout:
   repo: https://github.com/emaiannone
   linkedin: https://www.linkedin.com/in/emanuele-iannone-399602172/
   facebook: https://www.facebook.com/emanuele.iannone.710
+  twitter: https://twitter.com/EmanueleIannon3
 plugins:
   - jemoji

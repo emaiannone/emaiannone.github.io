@@ -1,7 +1,7 @@
 <nav id="sidebar-icon-links">
     {% if site.hydeout.repo %}
     <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
+       class="icon" title="Github Profile" aria-label="Github Profile"
        href="{{ site.hydeout.repo }}">
         {% include svg/github.svg %}
     </a>
@@ -13,6 +13,15 @@
     </a>-->
     {% endif %}
 
+    {% if site.hydeout.twitter %}
+    <a id="twitter-link"
+       class="icon" title="Twitter" aria-label="Twitter"
+       href="{{ site.hydeout.twitter }}">
+        {% include svg/twitter.svg %}
+    </a>
+    {% endif %}
+
+    <!--
     {% if site.hydeout.linkedin %}
     <a id="linkedin-link"
        class="icon" title="Linkedin" aria-label="Linkedin"
@@ -20,6 +29,7 @@
         {% include svg/linkedin.svg %}
     </a>
     {% endif %}
+    -->
 
     {% if site.hydeout.facebook %}
     <a id="facebook-link"
@@ -36,8 +46,6 @@
         {% include svg/feed.svg %}
     </a>
     {% endif %}
-
-
 
     {% comment %}
     Check if we have tag or search pages page active before linking to it.
