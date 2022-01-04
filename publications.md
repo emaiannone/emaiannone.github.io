@@ -5,6 +5,23 @@ permalink: publications
 sidebar_sort_order: 1
 ---
 
+<a name="j1"></a>
+
+#### :page_with_curl: [J1] The Secret Life of Software Vulnerabilities: A Large-Scale Empirical Study
+**E. Iannone**, R. Guadagni, F. Ferrucci, A. De Lucia, F. Palomba.  
+***To appear** IEEE Transactions on Software Engineering (TSE)*
+[[preprint]](download/papers/j1.pdf)
+
+>**Abstract:**
+>Software vulnerabilities are weaknesses in source code that can be potentially exploited to cause loss or harm.
+>While researchers have been devising a number of methods to deal with vulnerabilities, there is still a noticeable lack of knowledge on their
+software engineering life cycle, for example how vulnerabilities are introduced and removed by developers. [...]
+>We consider 3,663 vulnerabilities with public patches from the National Vulnerability Database [...] and define an eight-step process involving both automated parts and manual analyses.
+>The investigated vulnerabilities can be classified in 144 categories, take on average at least 4 contributing commits before being
+introduced, and half of them remain unfixed for at least more than one year. Most of the contributions are done by developers with high
+workload, often when doing maintenance activities, and removed mostly with the addition of new source code aiming at implementing
+further checks on inputs. [...]
+
 <a name="c3"></a>
 
 #### :page_with_curl: [C3] Toward Understanding the Impact of Refactoring on Program Comprehension
