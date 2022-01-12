@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 #### :page_with_curl: [J1] The Secret Life of Software Vulnerabilities: A Large-Scale Empirical Study
 **E. Iannone**, R. Guadagni, F. Ferrucci, A. De Lucia, F. Palomba.  
 ***To appear** IEEE Transactions on Software Engineering (TSE)*
-[[preprint]](download/papers/j1.pdf)
+[[preprint]](download/papers/j1.pdf) [[cite]](download/cites/j1.bib)
 
 >**Abstract:**
 >Software vulnerabilities are weaknesses in source code that can be potentially exploited to cause loss or harm.
