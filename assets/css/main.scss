@@ -64,3 +64,50 @@ table tbody tr:nth-child(even) {
 article {
   margin-left: 2rem;
 }
+
+details {
+  border-radius: 0.5em;
+  border: 0.1em solid #4CAF50;
+  padding: 0.5em;
+}
+
+/*
+details:hover {
+  transform: scale(1);
+}
+*/
+
+details summary::marker {
+  color: #1A2D40;
+}
+
+details summary::-webkit-details-marker {
+  color: #1A2D40;
+}
+
+hr {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1A2D40;
+}
+
+details hr {
+  border-width: 1px;
+  border-style: thin;
+  border-color: #4CAF50;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em
+}
+
+button {
+  padding-block: 0.5em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}
+
+button:hover{
+  background: #4CAF50;
+  border-color: #4CAF50;
+}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Invited Talk"
-permalink: first_talk
+permalink: first-talk
 comments: false
 ---
 

@@ -17,7 +17,7 @@ I've been invited to review papers submitted at:
 :microphone: IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER [2021](https://saner2021.shidler.hawaii.edu/), [2022](https://saner2022.uom.gr/))  
 :microphone: ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW [2022](https://cscw.acm.org/2022/))
 
----
+<hr>
 
 ## Guest Lectures
 
@@ -56,7 +56,7 @@ M.Sc. course at University of Salerno.
 *Where*: [Fundamentals of Artificial Intelligence](https://corsi.unisa.it/informatica/didattica/insegnamenti?anno=2020&id=511550)
 B.Sc. course at University of Salerno.
 
----
+<hr>
 
 ## Talks and Attendances
 
@@ -76,7 +76,7 @@ B.Sc. course at University of Salerno.
 *When*: 17th--21th June 2019  
 *Where*: University of Salerno, Fisciano, Italy
 
----
+<hr>
 
 ## :briefcase: Teaching Assistance
 
@@ -97,4 +97,4 @@ and be available for any requests for clarification.
 
 [^1]: Held through Microsoft Teams due to Covid-19 pandemic.
 
----
+<hr>

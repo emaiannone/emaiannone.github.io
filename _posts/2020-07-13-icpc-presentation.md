@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "ICPC 2020 Presentation"
-permalink: icpc_presentation
+permalink: icpc-presentation
 comments: false
 ---
 
 Due to COVID-19 pandemic and the online rearrangement of [ICPC 2020 <i class="fa fa-external-link" style="font-size:16px"></i>](https://conf.researchr.org/home/icpc-2020),
-I had the opportunity to personally present my [first paper](works#c1)
+I had the opportunity to personally present my [first paper](publications#c1)
 in a live summary + Q/A session :smile:
 
 For the occasion, I also prepared a pre-recorded presentation, available on YouTube
