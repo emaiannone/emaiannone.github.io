@@ -28,7 +28,7 @@ F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi
 #### :page_with_curl: [J2] The Secret Life of Software Vulnerabilities: A Large-Scale Empirical Study
 **E. Iannone**, R. Guadagni, F. Ferrucci, A. De Lucia, F. Palomba  
 ***To appear** IEEE Transactions on Software Engineering (TSE)*.  
-<button type="button" onclick="location.href='download/papers/j2.pdf'">Preprint</button>
+<button type="button" onclick="location.href='download/papers/j2.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/j2.bib'">Cite</button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -47,7 +47,7 @@ F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi
 G. Sellitto, **E. Iannone**, Z. Codabux, V. Lenarduzzi, A. De Lucia, F. Palomba, F. Ferrucci  
 ***To appear** In Proceedings of the 29th IEEE/ACM International Conference on Software Analysis, Evolution and Reengineering (SANER 2022),
 Honolulu, Hawaii, US, 2022*.  
-<button type="button" onclick="location.href='download/papers/c3.pdf'">Preprint</button>
+<button type="button" onclick="location.href='download/papers/c3.pdf'">Preprint</button> 
 
 <details>
   <summary><b>Summary</b></summary>
@@ -65,7 +65,7 @@ Honolulu, Hawaii, US, 2022*.
 #### :page_with_curl: [J1] Impacts of Software Community Patterns on Process and Product: An Empirical Study
 M. De Stefano, **E. Iannone**, F. Pecorelli, D.A. Tamburri  
 *IEEE Transactions on Software Engineering (SCICO)*.  
-<button type="button" onclick="location.href='download/papers/j1.pdf'">Preprint</button>
+<button type="button" onclick="location.href='download/papers/j1.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/j1.bib'">Cite</button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -99,10 +99,8 @@ Madrid, Spain, 2021 (virtual)*.
 #### :page_with_curl: [C1] Refactoring Android-specific Energy Smells: A Plugin for Android Studio
 **E. Iannone**, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia  
 *In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020),
-Seoul, South Korea, 2020 (virtual)*
-[[preprint]](download/papers/c1.pdf)
-[[video]](https://www.youtube.com/watch?v=iXFXpD5FqWA&t=141s)
-[[cite]](download/cites/c1.bib)
+Seoul, South Korea, 2020 (virtual)*.  
+<button type="button" onclick="location.href='download/papers/c1.pdf'">Preprint</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=iXFXpD5FqWA&t=141s'">Video</button> <button type="button" onclick="location.href='download/cites/c1.bib'">Cite</button>
 
 <details>
   <summary><b>Summary</b></summary>
