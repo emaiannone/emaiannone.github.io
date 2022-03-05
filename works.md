@@ -9,6 +9,7 @@ sidebar_sort_order: 2
 
 I've been part of the program committee of the following workshops and conferences:
 
+:microphone: Mining Software Repositories Conference [(MSR 2022)](https://conf.researchr.org/home/msr-2022) - Shadow Program Committee  
 :wrench: International Workshop on Software Quality Assurance for Artificial Intelligence [(SQA4AI 2022)](https://sqa4ai.github.io/sqa4ai2022/)
 
 I've been invited to review papers submitted at:
