@@ -12,7 +12,7 @@ sidebar_sort_order: 1
 ***To appear** In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
 <button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button> 
 
-<details>
+<details open>
   <summary><b>Summary</b></summary>
   <hr>
   <p align="justify">Mobile applications usage has considerably increased since the last decade. >One of the most influencing factors for user experience is battery consumption, which should have the minimum possible impact on the battery.</p>
@@ -29,7 +29,7 @@ sidebar_sort_order: 1
 F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi  
 *Journal of Systems and Software (JSS)*.  
 <button type="button" onclick="location.href='download/papers/j3.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/j3.bib'">Cite</button>
-<details open>
+<details>
   <summary><b>Summary</b></summary>
   <hr>
   <p align="justify">Software vulnerabilities are weaknesses in source code that might be exploited to cause harm or loss. Previous work has proposed several machine learning approaches to detect them.
@@ -81,7 +81,7 @@ G. Sellitto, **E. Iannone**, Z. Codabux, V. Lenarduzzi, A. De Lucia, F. Palomba,
 
 #### :page_with_curl: [J1] Impacts of Software Community Patterns on Process and Product: An Empirical Study
 M. De Stefano, **E. Iannone**, F. Pecorelli, D.A. Tamburri  
-*IEEE Transactions on Software Engineering (SCICO)*.  
+*Science of Computer Programming (SCICO)*.  
 <button type="button" onclick="location.href='download/papers/j1.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/j1.bib'">Cite</button>
 
 <details>
