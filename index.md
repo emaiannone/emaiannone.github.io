@@ -61,5 +61,3 @@ My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a g
 
 | **Email (University)** | eiannone *at* unisa *dot* it |
 | **Email (Personal)** | emaiannone *at* hotmail *dot* it |
-| **Skype** | emaiannone |
-| **Discord** | emaiannone |
