@@ -12,8 +12,6 @@ sidebar_sort_order: 1
 ***To appear** In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
 <button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/c4.bib'">Cite</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=DIv471PKrTQ'">Video</button>
 
-https://www.youtube.com/watch?v=DIv471PKrTQ&ab_channel=EmanueleIannone
-
 <details open>
   <summary><b>Summary</b></summary>
   <hr>
