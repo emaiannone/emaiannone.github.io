@@ -10,12 +10,14 @@ sidebar_sort_order: 1
 #### :page_with_curl: [C4] Predicting The Energy Consumption Level of Java Classes in Android Apps: An Exploratory Analysis
 **E. Iannone**, M. De Stefano, F. Pecorelli, A. De Lucia  
 ***To appear** In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
-<button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button> 
+<button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/c4.bib'">Cite</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=DIv471PKrTQ'">Video</button>
+
+https://www.youtube.com/watch?v=DIv471PKrTQ&ab_channel=EmanueleIannone
 
 <details open>
   <summary><b>Summary</b></summary>
   <hr>
-  <p align="justify">Mobile applications usage has considerably increased since the last decade. >One of the most influencing factors for user experience is battery consumption, which should have the minimum possible impact on the battery.</p>
+  <p align="justify">Mobile applications usage has considerably increased since the last decade. One of the most influencing factors for user experience is battery consumption, which should have the minimum possible impact on the battery.</p>
   <p align="justify">The current body of knowledge on energy consumption measurement only reports approaches relying on complex instrumentation or stressing the application with many test scenarios, thus making it hard to measure energy consumption.</p>
   <p align="justify">In this work, we explore the performance of machine learning to predict the energy consumption level of Java classes in Android apps, leveraging only on a set of structural properties extracted via source code analysis.
   The preliminary results show poor performance likely caused by (1) an insufficient amount of training data, (2) a limited feature set, and (3) an inappropriate way to label the dependent variable. The paper concludes by presenting the limitations of the experimented models and the possible strategies to address them.</p>
@@ -45,7 +47,7 @@ F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi
 
 #### :page_with_curl: [J2] The Secret Life of Software Vulnerabilities: A Large-Scale Empirical Study
 **E. Iannone**, R. Guadagni, F. Ferrucci, A. De Lucia, F. Palomba  
-***To appear** IEEE Transactions on Software Engineering (TSE)*.  
+*IEEE Transactions on Software Engineering (TSE)*.  
 <button type="button" onclick="location.href='download/papers/j2.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/j2.bib'">Cite</button>
 
 <details>
@@ -115,7 +117,7 @@ M. De Stefano, **E. Iannone**, F. Pecorelli, D.A. Tamburri
 #### :page_with_curl: [C1] Refactoring Android-specific Energy Smells: A Plugin for Android Studio
 **E. Iannone**, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia  
 *In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020 (virtual)*.  
-<button type="button" onclick="location.href='download/papers/c1.pdf'">Preprint</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=iXFXpD5FqWA&t=141s'">Video</button> <button type="button" onclick="location.href='download/cites/c1.bib'">Cite</button>
+<button type="button" onclick="location.href='download/papers/c1.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/c1.bib'">Cite</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=iXFXpD5FqWA&t=141s'">Video</button>
 
 <details>
   <summary><b>Summary</b></summary>
