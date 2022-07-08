@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 
 #### :page_with_curl: [C4] Predicting The Energy Consumption Level of Java Classes in Android Apps: An Exploratory Analysis
 **E. Iannone**, M. De Stefano, F. Pecorelli, A. De Lucia  
-***To appear** In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
+*In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
 <button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/c4.bib'">Cite</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=DIv471PKrTQ'">Video</button>
 
 <details open>

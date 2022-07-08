@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-:wave: Hello, I'm Emanuele Iannone, a **Computer Science** Ph.D. student at [University of Salerno](https://www.unisa.it/) (Italy), and I'm part of the extraordinary family of [SeSa Lab](https://sesalabunisa.github.io/).
+:wave: Hello, I'm Emanuele Iannone, a **Computer Science** Ph.D. student at [University of Salerno](https://www.unisa.it/) (Italy), and I'm part of the extraordinary family of [SeSa Lab](https://sesalabunisa.github.io).
 I was born in Salerno, Italy, on 1st September 1996.
 
 :pencil: I'm currently at the second year of my Ph.D. program. My research resolves around the analysis of **Software Vulnerabilities** in the field of **Software Maintenance and Evolution**, advised by [Prof. Fabio Palomba](https://fpalomba.github.io/) and [Prof. Andrea De Lucia](https://docenti.unisa.it/003241/home).
@@ -53,3 +53,5 @@ My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a g
 
 | **Email (University)** | eiannone *at* unisa *dot* it |
 | **Email (Personal)** | emaiannone *at* hotmail *dot* it |
+| **Twitter** | [@EmanueleIannone3](https://twitter.com/emanueleiannon3) |
+| **Scholar** | [Emanuele Iannone](https://scholar.google.it/citations?user=9_SYZj8AAAAJ&hl=it&oi=ao) |
