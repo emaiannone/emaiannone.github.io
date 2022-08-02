@@ -5,6 +5,23 @@ permalink: publications
 sidebar_sort_order: 1
 ---
 
+<a name="c5"></a>
+
+#### :page_with_curl: [C5] The Phantom Menace: Unmasking Security Issues in Evolving Software
+**E. Iannone**, F. Palomba  
+***To Appear** 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022), Limassol, Cyprus, 2022*.  
+<button type="button" onclick="location.href='download/papers/c5.pdf'">Preprint</button>
+
+<details open>
+  <summary><b>Summary</b></summary>
+  <hr>
+  <p align="justify">Several automated and not-automated solutions have been developed that support developers in identifying and assessing security issues.</p>
+  <p align="justify">However, most solutions were not meant to cooperate synergically or continuously run in the context of evolving software, i.e., software subject to frequent maintenance and evolution activities.</p>
+  <p align="justify">My Ph.D. aims to fill this gap by investigating how vulnerabilities affect evolving software projects and by proposing novel solutions to improve and simplify the security verification and validation (V&V) process.</p>
+</details>
+
+<hr>
+
 <a name="c4"></a>
 
 #### :page_with_curl: [C4] Predicting The Energy Consumption Level of Java Classes in Android Apps: An Exploratory Analysis
@@ -12,7 +29,7 @@ sidebar_sort_order: 1
 *In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
 <button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/c4.bib'">Cite</button> <button type="button" onclick="location.href='https://www.youtube.com/watch?v=DIv471PKrTQ'">Video</button>
 
-<details open>
+<details>
   <summary><b>Summary</b></summary>
   <hr>
   <p align="justify">Mobile applications usage has considerably increased since the last decade. One of the most influencing factors for user experience is battery consumption, which should have the minimum possible impact on the battery.</p>
@@ -29,6 +46,7 @@ sidebar_sort_order: 1
 F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi  
 *Journal of Systems and Software (JSS)*.  
 <button type="button" onclick="location.href='download/papers/j3.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/j3.bib'">Cite</button>
+
 <details>
   <summary><b>Summary</b></summary>
   <hr>
@@ -63,8 +81,8 @@ F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi
 
 #### :page_with_curl: [C3] Toward Understanding the Impact of Refactoring on Program Comprehension
 G. Sellitto, **E. Iannone**, Z. Codabux, V. Lenarduzzi, A. De Lucia, F. Palomba, F. Ferrucci  
-***To appear** In Proceedings of the 29th IEEE/ACM International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), Honolulu, Hawaii, US, 2022*.  
-<button type="button" onclick="location.href='download/papers/c3.pdf'">Preprint</button> 
+*In Proceedings of the 29th IEEE/ACM International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), Honolulu, Hawaii, US, 2022*.  
+<button type="button" onclick="location.href='download/papers/c3.pdf'">Preprint</button> <button type="button" onclick="location.href='download/cites/c3.bib'">Cite</button>
 
 <details>
   <summary><b>Summary</b></summary>

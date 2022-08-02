@@ -27,6 +27,7 @@ My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a g
 
 <hr>
 
+<!---
 # :newspaper_roll: News
 
 {% for post in site.posts limit:3 %}
@@ -40,6 +41,7 @@ My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a g
     {{ post.excerpt }}
   </article>
 {% endfor %}
+-->
 
 # :information_source: General Info
 
@@ -51,7 +53,7 @@ My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a g
 
 # :telephone_receiver: Contacts
 
-| **Email (University)** | eiannone *at* unisa *dot* it |
-| **Email (Personal)** | emaiannone *at* hotmail *dot* it |
+| **Email (University)** | eiannone *a-t* unisa *d0t* it(-remove-if-not-spam) |
+| **Email (Personal)** | emaiannone *a-t* hotmail *d0t* it(-remove-if-not-spam) |
 | **Twitter** | [@EmanueleIannone3](https://twitter.com/emanueleiannon3) |
 | **Scholar** | [Emanuele Iannone](https://scholar.google.it/citations?user=9_SYZj8AAAAJ&hl=it&oi=ao) |
