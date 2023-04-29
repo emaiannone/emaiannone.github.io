@@ -44,12 +44,6 @@ img.emoji {
   margin: 0;
 }
 
-@media screen and (min-width: 49rem) {
-  #sidebar {
-    bottom: unset;
-  }
-}
-
 #sidebar img {
   display: inline-block;
   border-radius: 50%;
@@ -67,6 +61,12 @@ img.emoji {
 
 #sidebar .site-title {
   font-size: 2.5rem;
+}
+
+@media screen and (min-width: 49rem) {
+  #sidebar {
+    bottom: none;
+  }
 }
 
 table thead tr th {
