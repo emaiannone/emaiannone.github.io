@@ -8,22 +8,24 @@ title: Home
 :wave: Hello, I'm Emanuele Iannone, a **Computer Science** Ph.D. student at [University of Salerno](https://www.unisa.it/) (Italy), and I'm part of the extraordinary family of [SeSa Lab](https://sesalabunisa.github.io).
 I was born in Salerno, Italy, on 1st September 1996.
 
-:pencil: I'm currently at the second year of my Ph.D. program. My research resolves around the analysis of **Software Vulnerabilities** in the field of **Software Maintenance and Evolution**, advised by [Prof. Fabio Palomba](https://fpalomba.github.io/) and [Prof. Andrea De Lucia](https://docenti.unisa.it/003241/home).
-My main research topic concerns the analysis of current V&V practices to deal with software vulnerabilities and, more in general, security issues.
+:pencil: I'm currently at the third year of my Ph.D. program. My research resolves around the analysis of **Software Vulnerabilities** in the field of **Software Maintenance and Evolution**, advised by [Prof. Fabio Palomba](https://fpalomba.github.io/) and [Prof. Andrea De Lucia](https://docenti.unisa.it/003241/home).
+My main research topic concerns empirical studies on software vulnerabilities, predicting software vulnerabilities with machine learning, and assessing the risk associated to vulnerabilities. Hence, my research activity falls within Empirical Software Engineering, a sub-domain of Software Engineering focusing on conducting experiments on software systems and developers. My main research topics are:
 
-:mortar_board: I received (110/110 cum laude) the M.Sc. Degree in Computer Science at
-University of Salerno in September 2020, defending a thesis on ***Automatic Exploit Generation of Known Java API vulnerabilities*** advised by Prof. F. Palomba and Prof. A. De Lucia.  
-:mortar_board: In July 2018, I received (110/110 magna cum laude) the B.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automatic Refactoring of Android-specific Energy Smells*** advised by Prof. A. De Lucia.
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Mining Software Repositories & Software Analytics  
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Machine Learning for Software Engineering
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Software Maintenance & Evolution  
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Search-based Software Engineering
 
-My research activity is around Empirical Software Engineering, a sub-domain of Software Engineering focusing on conducting experiments on software systems and developers. My main research interests are:
+I have also worked on other topics:
 
-&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Security Verification & Validation**   
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Search-based Software Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Green Software Engineering
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Mining Software Repositories  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Green Software Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Program Comprehension  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Organizational Aspects of Software Engineering
 
-:nerd_face: I have always been fond of video gamers, especially role-playing games (RPG), but since my professional life got new perspectives, I (sadly) had to change my habits, so I got into anime and TV series.  
-My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a great fan on *Attack on Titan* TV show.
+:mortar_board: In September 2020, I received (110/110 cum laude) the M.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automatic Exploit Generation of Known Java API vulnerabilities*** advised by Prof. F. Palomba and Prof. A. De Lucia.  
+:mortar_board: In July 2018, I received (110/110 cum laude) the B.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automatic Refactoring of Android-specific Energy Smells*** advised by Prof. A. De Lucia.
+
+:nerd_face: I have always been fond of video games, especially role-playing games (RPG), but since my professional life got new perspectives, I had to change my habits, so I got into anime and TV series. My favourite video game series are *Final Fantasy* and *Pokémon*, and I'm a great fan of *Attack on Titan* and *Jojo's Bizzare Adventures* TV show.
 
 <hr>
 
@@ -47,13 +49,13 @@ My favourite video game series are *Final Fantasy* and *Pokémon*, while I'm a g
 
 | **First Name** | Emanuele |
 | **Last Name** | Iannone |
-| **Birth Date**  | 01/09/1996 |
+| **Birth Date**  | 01-09-1996 |
 | **Birthplace** | Salerno, Italy |
 | **Nationality** | Italian |
 
 # :telephone_receiver: Contacts
 
-| **Email (University)** | eiannone *a-t* unisa *d0t* it(-remove-if-not-spam) |
-| **Email (Personal)** | emaiannone *a-t* hotmail *d0t* it(-remove-if-not-spam) |
-| **Twitter** | [@EmanueleIannone3](https://twitter.com/emanueleiannon3) |
+| **Email (University)** | eiannone *a-t* unisa *d00t* it |
+| **Email (Personal)** | emaiannone *a-t* hotmail *d00t* it |
+| **Twitter** | [@EmanueleIannon3](https://twitter.com/emanueleiannon3) |
 | **Scholar** | [Emanuele Iannone](https://scholar.google.it/citations?user=9_SYZj8AAAAJ&hl=it&oi=ao) |
