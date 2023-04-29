@@ -19,7 +19,7 @@ main.container {
   width: 100%;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 49rem) {
   .container {
     width: 100%;
     align-items: center;
@@ -42,6 +42,12 @@ img.emoji {
   height: 1em;
   width: 1em;
   margin: 0;
+}
+
+@media screen and (min-width: 49rem) {
+  #sidebar {
+    bottom: unset;
+  }
 }
 
 #sidebar img {
