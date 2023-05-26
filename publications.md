@@ -10,9 +10,9 @@ sidebar_sort_order: 1
 #### :page_with_curl: [J4] Rubbing Salt in the Wound? A Large-Scale Investigation into the Effects of Refactoring on Security
 **E. Iannone**, Z. Codabux, V. Lenarduzzi, A. De Lucia, F. Palomba  
 *Empirical Software Engineering (EMSE)*.  
-<button type="button" onclick="location.href='download/papers/j4.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/papers/j4.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://link.springer.com/article/10.1007/s10664-023-10287-x'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/j4.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/papers/j4.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://link.springer.com/article/10.1007/s10664-023-10287-x','_blank')">Publisher <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -29,9 +29,9 @@ sidebar_sort_order: 1
 #### :page_with_curl: [C5] The Phantom Menace: Unmasking Security Issues in Evolving Software
 **E. Iannone**, F. Palomba  
 *38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022), Limassol, Cyprus, 2022*.  
-<button type="button" onclick="location.href='download/papers/c5.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/papers/c5.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://ieeexplore.ieee.org/document/9978223'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/c5.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/papers/c5.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://ieeexplore.ieee.org/document/9978223','_blank')">Publisher <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -47,10 +47,10 @@ sidebar_sort_order: 1
 #### :page_with_curl: [C4] Predicting The Energy Consumption Level of Java Classes in Android Apps: An Exploratory Analysis
 **E. Iannone**, M. De Stefano, F. Pecorelli, A. De Lucia  
 *In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022), Pittsburgh, PA, US, 2022*.  
-<button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/c4.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://ieeexplore.ieee.org/document/9797329'">Publisher <i class="fa fa-external-link"></i></button>
-<button type="button" onclick="location.href='https://www.youtube.com/watch?v=DIv471PKrTQ'">Video <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/c4.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/c4.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://ieeexplore.ieee.org/document/9797329','_blank')">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="window.open('https://www.youtube.com/watch?v=DIv471PKrTQ','_blank')">Video <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -67,9 +67,9 @@ sidebar_sort_order: 1
 #### :page_with_curl: [J3] Just-in-Time Software Vulnerability Detection: Are We There Yet?
 F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi  
 *Journal of Systems and Software (JSS)*.  
-<button type="button" onclick="location.href='download/papers/j3.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/j3.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://www.sciencedirect.com/science/article/pii/S0164121222000437'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/j3.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/j3.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://www.sciencedirect.com/science/article/pii/S0164121222000437','_blank')">Publisher <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -87,9 +87,9 @@ F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi
 #### :page_with_curl: [J2] The Secret Life of Software Vulnerabilities: A Large-Scale Empirical Study
 **E. Iannone**, R. Guadagni, F. Ferrucci, A. De Lucia, F. Palomba  
 *IEEE Transactions on Software Engineering (TSE)*.  
-<button type="button" onclick="location.href='download/papers/j2.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/j2.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://ieeexplore.ieee.org/document/9672730'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/j2.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/j2.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://ieeexplore.ieee.org/document/9672730','_blank')">Publisher <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -107,9 +107,9 @@ F. Lomio, **E. Iannone**, A. De Lucia, F. Palomba, V. Lenarduzzi
 :trophy: **Best Paper Award**  
 G. Sellitto, **E. Iannone**, Z. Codabux, V. Lenarduzzi, A. De Lucia, F. Palomba, F. Ferrucci  
 *In Proceedings of the 29th IEEE/ACM International Conference on Software Analysis, Evolution and Reengineering (SANER 2022), Honolulu, Hawaii, US, 2022*.  
-<button type="button" onclick="location.href='download/papers/c3.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/c3.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://ieeexplore.ieee.org/document/9825885'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/c3.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/c3.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://ieeexplore.ieee.org/document/9825885','_blank')">Publisher <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -126,9 +126,9 @@ G. Sellitto, **E. Iannone**, Z. Codabux, V. Lenarduzzi, A. De Lucia, F. Palomba,
 #### :page_with_curl: [J1] Impacts of Software Community Patterns on Process and Product: An Empirical Study
 M. De Stefano, **E. Iannone**, F. Pecorelli, D.A. Tamburri  
 *Science of Computer Programming (SCICO)*.  
-<button type="button" onclick="location.href='download/papers/j1.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/j1.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://www.sciencedirect.com/science/article/abs/pii/S0167642321001246'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/j1.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/j1.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S0167642321001246','_blank')">Publisher <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -144,10 +144,10 @@ M. De Stefano, **E. Iannone**, F. Pecorelli, D.A. Tamburri
 #### :page_with_curl: [C2] Toward Automated Exploit Generation for Known Vulnerabilities in Open-Source Libraries
 **E. Iannone**, D. Di Nucci, A. Sabetta, A. De Lucia  
 *In Proceedings of the 29th IEEE/ACM International Conference on Program Comprehension (ICPC 2021), Madrid, Spain, 2021 (virtual)*.  
-<button type="button" onclick="location.href='download/papers/c2.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/c2.bib'">Bibtex</button>
-<button type="button" onclick="location.href='download/slides/c2-slides.pdf'">Slides</button>
-<button type="button" onclick="location.href='https://ieeexplore.ieee.org/document/9462983'">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/c2.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/c2.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://ieeexplore.ieee.org/document/9462983','_blank')">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/slides/c2-slides.pdf'">Slides <i class="fa fa-download"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
@@ -162,10 +162,10 @@ M. De Stefano, **E. Iannone**, F. Pecorelli, D.A. Tamburri
 #### :page_with_curl: [C1] Refactoring Android-specific Energy Smells: A Plugin for Android Studio
 **E. Iannone**, F. Pecorelli, D. Di Nucci, F. Palomba, A. De Lucia  
 *In Proceedings of the 28th IEEE/ACM International Conference on Program Comprehension (ICPC 2020), Seoul, South Korea, 2020 (virtual)*.  
-<button type="button" onclick="location.href='download/papers/c1.pdf'">Preprint</button>
-<button type="button" onclick="location.href='download/cites/c1.bib'">Bibtex</button>
-<button type="button" onclick="location.href='https://dl.acm.org/doi/10.1145/3387904.3389298'">Publisher <i class="fa fa-external-link"></i></button>
-<button type="button" onclick="location.href='https://www.youtube.com/watch?v=iXFXpD5FqWA&t=141s'">Video <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="location.href='download/papers/c1.pdf'">Preprint <i class="fa fa-download"></i></button>
+<button type="button" onclick="location.href='download/cites/c1.bib'">Bibtex <i class="fa fa-download"></i></button>
+<button type="button" onclick="window.open('https://dl.acm.org/doi/10.1145/3387904.3389298','_blank')">Publisher <i class="fa fa-external-link"></i></button>
+<button type="button" onclick="window.open('https://www.youtube.com/watch?v=iXFXpD5FqWA&t=141s','_blank')">Video <i class="fa fa-external-link"></i></button>
 
 <details>
   <summary><b>Summary</b></summary>
