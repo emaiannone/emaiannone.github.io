@@ -1,4 +1,7 @@
-/Gemfile.lock
-/_site
-/.sass-cache
-/.idea
+Gemfile.lock
+_site
+.sass-cache
+.idea
+.jekyll-cache
+.tweet-cache
+.DS_Store
