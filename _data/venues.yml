@@ -1,0 +1,30 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"TSE":
+  url: https://www.computer.org/csdl/journal/ts
+
+"EMSE":
+  url: https://www.springer.com/journal/10664
+
+"JSS":
+  url: https://www.sciencedirect.com/journal/journal-of-systems-and-software
+
+"SCICO":
+  url: https://www.sciencedirect.com/journal/science-of-computer-programming
+
+"MobileSoft":
+  url: https://conf.researchr.org/series/mobilesoft
+
+"SANER":
+  url: https://conf.researchr.org/series/saner
+
+"ICSME":
+  url: https://conf.researchr.org/series/icsme
+
+"ICPC":
+  url: https://conf.researchr.org/series/icpc
+
+"PhysRev":
+  url: https://journals.aps.org/

@@ -1,18 +1,27 @@
-# ./Gemfile
-source "https://rubygems.org"
-
-# Uncomment these lines for a basic Jekyll site without depending on GitHub
-#gem "jekyll"
-#group :jekyll_plugins do
-#  gem "jekyll-feed"
-#  gem "jekyll-seo-tag"
-#end
-#gem "jekyll-theme-slate"
-
-# Uncomment this line for a Jekyll site to be deployed on GitHub Pages
-gem "commonmarker"
+source 'https://rubygems.org'
 group :jekyll_plugins do
-  gem "github-pages"
-  gem 'jekyll-commonmark-ghpages'
+    gem 'classifier-reborn'
+    gem 'jekyll'
+    gem 'jekyll-archives'
+    gem 'jekyll-diagrams'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-feed'
+    gem 'jekyll-get-json'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-toc'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+    gem 'mini_racer'
+    gem 'unicode_utils'
+    gem 'webrick'
 end
-gem "jemoji"
+group :other_plugins do
+    gem 'feedjira'
+    gem 'httparty'
+end
