@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Emanuele, a **Computer Science** Ph.D. student at [University of Salerno](https://www.unisa.it/), in Italy. I'm part of the extraordinary family of the [SeSa Lab](https://sesalabunisa.github.io). I was born in Salerno, Italy, on September 1st, 1996.
+Hello, I am Emanuele, a **Computer Science** Ph.D. student at the [University of Salerno](https://www.unisa.it/), in Italy. I am part of the extraordinary family of the [SeSa Lab](https://sesalabunisa.github.io). I was born in Salerno, Italy, on September 1st, 1996.
 
-I'm currently at the final year of my Ph.D. program, revolving around the analysis of **Software Vulnerabilities** in the field of **Software Maintenance and Evolution**. I'm adivised by [Prof. Fabio Palomba](https://fpalomba.github.io/) and [Prof. Andrea De Lucia](https://docenti.unisa.it/003241/home).
+I am currently in the final year of my Ph.D. program, revolving around analyzing the life of **software vulnerabilities** in the field of **Software Maintenance and Evolution**. I am advised by [Prof. Fabio Palomba](https://fpalomba.github.io/) and [Prof. Andrea De Lucia](https://docenti.unisa.it/003241/home).
 
-My research concerns the use of empirical method for dealing with software vulnerabilities, such as building vulnerability prediction models, assessing their risk automatically, and devising new security testing techniques. So, my research falls within Empirical Software Engineering, a sub-domain of Software Engineering focusing on conducting experiments on software systems and developers. To summarize, my main research topics are:
+My research employs empirical methods for dealing with software vulnerabilities, such as building vulnerability prediction models, assessing their risk automatically, and devising new security testing techniques. My research falls within Empirical Software Engineering, a sub-domain of Software Engineering focusing on conducting experiments on software systems and developers. To summarize, my main research topics are:
 
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Mining Software Repositories & Software Analytics  
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Machine Learning for Software Engineering  

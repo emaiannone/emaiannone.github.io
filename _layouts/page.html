@@ -8,6 +8,20 @@ layout: default
             <h1 class="post-title">{{ page.title }}</h1>
             <p class="post-description">{{ page.description }}</p>
           </header>
+          
+          <div class="post-img">
+          {%- if page.img %}
+          {%- include figure.html
+            path=page.img
+            alt="talk thumbnail" -%}
+          {%- endif %}
+          </div>
+
+          <div class="post-links">
+          {%- if page.download -%}
+          <a href="{{ page.download }}" class="btn btn-md z-depth-0" role="button"><i class="fa-solid fa-download fa-2xl"></i> Download Slides</a>
+          {%- endif %}
+          </div>
 
           <article>
             {{ content }}

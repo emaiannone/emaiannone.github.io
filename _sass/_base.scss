@@ -92,6 +92,11 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    text-align: center;
+  }
+
+  .card-body {
+    padding: 0.5rem;
   }
 
   .card-item {
@@ -502,7 +507,7 @@ footer.sticky-bottom {
 
 // Projects
 
-.projects {
+.projects, .talks {
   a {
     text-decoration: none;
 
@@ -792,6 +797,27 @@ html.transition *:after {
         margin-bottom: 0;
       }
     }
+  }
+
+  .post-links {
+    a.btn {
+      color: var(--global-text-color);
+      border: 1px solid var(--global-text-color);
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+      margin-left: 0;
+
+      &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+      }
+    }
+  }
+
+  img {
+    max-width: 100%;
   }
 }
 
