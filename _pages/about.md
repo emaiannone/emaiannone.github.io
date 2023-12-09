@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Predoctoral Research at TUHH and Ph.D. Student at UNISA
+subtitle: Predoctoral Researcher at TUHH and Ph.D. Candidate at UNISA
 
 profile:
   align: right
