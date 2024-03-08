@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher at TUHH
+subtitle: Postdoctoral Researcher at TUHH and Ph.D. Student at UNISA
 
 profile:
   align: right
   image: propic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Institute of Softare Security</p>
+    <p>Institute of Software Security</p>
     <p>Blohmstraße 15, 21079</p>
     <p>Hamburg, Germany</p>
 
