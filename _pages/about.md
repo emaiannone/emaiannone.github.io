@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher at TUHH and Ph.D. Student at UNISA
+subtitle: Postdoctoral Researcher at TUHH
 
 profile:
   align: right
@@ -38,6 +38,8 @@ I have also worked on topics like:
 &nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Program Comprehension  
 &nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Organizational Aspects in Software Engineering
 
-Going more back in time, In September 2020, I received the M.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automatic Exploit Generation of Known Java API vulnerabilities*** advised by Prof. F. Palomba and Prof. A. De Lucia (110/110 cum laude). Two years before, In July 2018, I received the B.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automatic Refactoring of Android-specific Energy Smells*** advised by Prof. A. De Lucia (110/110 cum laude).
+Going more back in time, In September 2020, I received the M.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automated Exploit Generation of Known Java API vulnerabilities*** advised by Prof. F. Palomba and Prof. A. De Lucia (110/110 cum laude). Two years before, In July 2018, I received the B.Sc. Degree in Computer Science at University of Salerno, defending a thesis on ***Automated Refactoring of Android-specific Energy Smells*** advised by Prof. A. De Lucia (110/110 cum laude).
 
-I am 100% Salernitan: born in [Salerno](https://it.wikipedia.org/wiki/Salerno), grown up in Salerno, went to school in Salerno, graduated in Salerno! I am a proud millenial, born in 1996. I have always been fond of video games, especially role-playing games (RPG), playing like hours each day. But since my professional life got new perspectives, I had to change my habits, so I had to switch on more flexible hobbies: anime and TV series. My favourite video game series are *Final Fantasy* and *Pokémon*, and I am a great fan of *Attack on Titan* and *Jojo's Bizzare Adventures* TV show.
+I am 100% Salernitan. I was born in [Salerno](https://it.wikipedia.org/wiki/Salerno), grew up in Salerno, went to school in Salerno, graduated in Salerno! I am a proud millennial, born in 1996. I have always been fond of video games, especially role-playing games (RPG), playing like hours each day. But since my professional life got new perspectives, I had to change my habits, so I had to switch on more flexible hobbies: anime and TV series. My favourite video game series are *Final Fantasy* and *Pokémon*, and I am a great fan of *Attack on Titan* and *Jojo's Bizzare Adventures* TV show.
+
+Contact me at: `<first-name>.<last-name>@tuhh.de`
