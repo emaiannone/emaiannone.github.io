@@ -732,6 +732,18 @@ figure.highlight {
   margin: 0 0 1rem;
 }
 
+div.card.hoverable figure {
+  margin-bottom: 0rem;
+}
+
+div.card-body p.card-text {
+  margin-bottom: 0rem;
+}
+
+div.talks h2.category {
+  margin-top: 0rem;
+}
+
 pre {
   color: var(--global-theme-color);
   background-color: var(--global-code-bg-color);

@@ -2,10 +2,10 @@
 layout: page
 title: Talks
 permalink: /talks
-description: The invited talks, guest lectures and conference presentations I held.
+description: The invited talks and guest lectures I held.
 nav: true
 nav_order: 3
-display_categories: [talk, lecture, conference]
+display_categories: [talk, lecture]
 horizontal: false
 ---
 
