@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Predoctoral Researcher at TUHH
+subtitle: Postdoctoral Researcher at TUHH
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Emanuele (*/Eh-maa-noo-eh-leh/*), Predoctoral Researcher (Research Assistant) at the [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/startseite), Germany. I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I work on mining and creating **proof of vulnerabilities** (e.g., security test cases, exploits, etc.) and developing novel **automated vulnerability repair** solutions, contributing to the Horizon EU project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/).
+Hello, I am Emanuele (*/Eh-maa-noo-eh-leh/*), Postdoctoral Researcher (Research Assistant) at the [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/startseite), Germany. I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I work on mining and creating **proof of vulnerabilities** (e.g., security test cases, exploits, etc.) and developing novel **automated vulnerability repair** solutions, contributing to the Horizon EU project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/).
 
 In February 2024, I earned a Ph.D. in **Computer Science** at the [University of Salerno (UNISA)](https://www.unisa.it/), Italy. I defended a thesis on **software vulnerabilities** in the field of **Software Maintenance and Evolution** (thesis title: *There's Something about Vulnerabilities: Empirical Comprehension and Novel Automated Approaches*), supervised (and academically raised) by [Prof. Fabio Palomba](https://fpalomba.github.io/) at the [Software Engineering (SeSa) Lab](https://sesalabunisa.github.io).
 
