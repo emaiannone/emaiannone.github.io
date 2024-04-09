@@ -1,8 +1,28 @@
 ---
 ---
 
+@article{iannone:tosem2024:exploitability:prediction,
+    pdf={j5.pdf},
+    preview={preview_j5.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={TOSEM},
+    author = {Iannone, Emanuele and Sellitto, Giulia and Iaccarino, Emanuele and Ferrucci, Filomena and De Lucia, Andrea and Palomba, Fabio},
+    title = {Early and Realistic Exploitability Prediction of Just-Disclosed Software Vulnerabilities: How Reliable Can It Be?},
+    year = {2024},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    issn = {1049-331X},
+    url = {https://doi.org/10.1145/3654443},
+    doi = {10.1145/3654443},
+    abstract = {With the rate of discovered and disclosed vulnerabilities escalating, researchers have been experimenting with machine learning to predict whether a vulnerability will be exploited. Existing solutions leverage information unavailable when a CVE is created, making them unsuitable just after the disclosure. This paper experiments with early exploitability prediction models driven exclusively by the initial CVE record, i.e., the original description and the linked online discussions. Leveraging NVD and Exploit Database, we evaluate 72 prediction models trained using six traditional machine learning classifiers, four feature representation schemas, and three data balancing algorithms. We also experiment with five pre-trained large language models (LLMs). The models leverage seven different corpora made by combining three data sources, i.e., CVE description, Security Focus, and BugTraq. The models are evaluated in a realistic, time-aware fashion by removing the training and test instances that cannot be labeled “neutral”&nbsp;with sufficient confidence. The validation reveals that CVE descriptions and Security Focus discussions are the best data to train on. Pre-trained LLMs do not show the expected performance, requiring further pre-training in the security domain. We distill new research directions, identify possible room for improvement, and envision automated systems assisting security experts in assessing the exploitability.},
+    note = {Just Accepted},
+    journal = {ACM Trans. Softw. Eng. Methodol.},
+    month = {mar},
+    keywords = {Exploitability Prediction, Software Vulnerabilities, Machine Learning, Text Mining, Natural Language Processing.}
+}
+
 @Article{iannone:emse2023:refactoring:security,
-    selected={true},
     pdf={j4.pdf},
     preview={preview_j4.png},
     bibtex_show={true},
@@ -145,7 +165,6 @@
 }
 
 @inproceedings{iannone:icpc2021:siege,
-    selected={true},
     pdf={c2.pdf},
     slides={c2_slides.pdf},
     preview={preview_c2.png},
