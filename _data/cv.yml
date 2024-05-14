@@ -13,7 +13,7 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Research Assistant 
+    - title: Postdoctoral Researcher (Research Assistant)
       institution: Hamburg University of Technology, Hamburg
       year: 2023.11 -
       description: "Working on designing novel automated vulnerability repair solutions in the context of Horizon EU project 'Cybersecurity for AI-Augmented Systems' (Sec4AI4Sec, grant ID: 101120393)"
@@ -51,7 +51,7 @@
   type: time_table
   contents:
     - title: Visiting Ph.D. Student 
-      institution: University of Luxembourg, Luxembourg
+      institution: University of Luxembourg, SnT, Luxembourg, Luxembourg
       year: 2022.10 - 2022.12
     - title: Visiting Ph.D. Student 
       institution: Tampere University, Tampere, Finland
@@ -61,24 +61,41 @@
   type: time_table
   contents:
     - year: 2022
-      title: <i class="fas fa-award"></i> SANER 2022 Distinguished Paper Award 
+      title: <i class="fas fa-award"></i> SANER 2022 Distinguished Paper Award
       items:
         - "Toward Understanding the Impact of Refactoring on Program Comprehension"
+    - year: 2023
+      title: <i class="fas fa-award"></i> <a href="https://ieeexplore.ieee.org/document/10473612">TSE 2023 Distinguished Reviewer Award</a>
+
+- title: Community Services
+  type: nested_list
+  contents:
+    - title: Event Organization
+      items:
+        - <a href="https://secute-ws.github.io/">1st Workshop on Security Testing for Complex Software Systems (SECUTE 2024)</a>
+    - title: Program Commitees
+      items:
+        - <i>Will upload soon!</i>
+    - title: Other Services
+      items:
+        - <a href="https://www.sciencedirect.com/journal/science-of-computer-programming/about/editorial-board">Science of Computer Programming Social Media Editor</a>
 
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Software Vulnerability Analysis
+    - title: Software Vulnerability Testing and Analysis
       items: 
         - Security Testing
         - Automated Exploit Generation
         - Automated Vulnerability Repair
-        - Vulnerability Prediction Modeling
         - Exploitability Assessment
-    - title: Mining Software Repositories
+        - Vulnerability Prediction Modeling
+    - title: Mining Software Repositories for Security
       items:
         - Vulnerability-Contributing and Fixing Commit Retrieval
-        - Change History Analysis
-    - title: Software Quality
-    - title: Software Refactoring
-    - title: Green Software Engineering
+        - Vulnerability Test Retrieval
+    - title: Other Topics
+      items:
+        - Software Quality
+        - Software Refactoring
+        - Green Software Engineering
