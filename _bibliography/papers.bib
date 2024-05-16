@@ -14,7 +14,7 @@
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
     issn = {1049-331X},
-    url = {https://doi.org/10.1145/3654443},
+    url = {https://dl.acm.org/doi/10.1145/3654443},
     doi = {10.1145/3654443},
     abstract = {With the rate of discovered and disclosed vulnerabilities escalating, researchers have been experimenting with machine learning to predict whether a vulnerability will be exploited. Existing solutions leverage information unavailable when a CVE is created, making them unsuitable just after the disclosure. This paper experiments with early exploitability prediction models driven exclusively by the initial CVE record, i.e., the original description and the linked online discussions. Leveraging NVD and Exploit Database, we evaluate 72 prediction models trained using six traditional machine learning classifiers, four feature representation schemas, and three data balancing algorithms. We also experiment with five pre-trained large language models (LLMs). The models leverage seven different corpora made by combining three data sources, i.e., CVE description, Security Focus, and BugTraq. The models are evaluated in a realistic, time-aware fashion by removing the training and test instances that cannot be labeled “neutral”&nbsp;with sufficient confidence. The validation reveals that CVE descriptions and Security Focus discussions are the best data to train on. Pre-trained LLMs do not show the expected performance, requiring further pre-training in the security domain. We distill new research directions, identify possible room for improvement, and envision automated systems assisting security experts in assessing the exploitability.},
     note = {Just Accepted},
@@ -41,7 +41,7 @@
     abstract={Software refactoring is a behavior-preserving activity to improve the source code quality without changing its external behavior. Unfortunately, it is often a manual and error-prone task that may induce regressions in the source code. Researchers have provided initial compelling evidence of the relation between refactoring and defects, yet little is known about how much it may impact software security. This paper bridges this knowledge gap by presenting a large-scale empirical investigation into the effects of refactoring on the security profile of applications. We conduct a three-level mining software repository study to establish the impact of 14 refactoring types on (i) security-related metrics, (ii) security technical debt, and (iii) the introduction of known vulnerabilities. The study covers 39 projects and a total amount of 7,708 refactoring commits. The key results show that refactoring has a limited connection to security. However, Inline Method and Extract Interface statistically contribute to improving some security aspects connected to encapsulating security-critical code components. Extract Superclass and Pull Up Attribute refactoring are commonly found in commits violating specific security best practices for writing secure code. Finally, Extract Superclass and Extract {\&} Move Method refactoring tend to occur more often in commits contributing to the introduction of vulnerabilities. We conclude by distilling lessons learned and recommendations for researchers and practitioners.},
     issn={1573-7616},
     doi={10.1007/s10664-023-10287-x},
-    url={https://doi.org/10.1007/s10664-023-10287-x}
+    url={https://link.springer.com/article/10.1007/s10664-023-10287-x}
 }
 
 @article{lomio:jss2022:jit:vulnerability:prediction,
@@ -81,6 +81,7 @@
     abstract={Software vulnerabilities are weaknesses in source code that can be potentially exploited to cause loss or harm. While researchers have been devising a number of methods to deal with vulnerabilities, there is still a noticeable lack of knowledge on their software engineering life cycle, for example how vulnerabilities are introduced and removed by developers. This information can be exploited to design more effective methods for vulnerability prevention and detection, as well as to understand the granularity at which these methods should aim. To investigate the life cycle of known software vulnerabilities, we focus on how, when, and under which circumstances the contributions to the introduction of vulnerabilities in software projects are made, as well as how long, and how they are removed. We consider 3,663 vulnerabilities with public patches from the National Vulnerability Database—pertaining to 1,096 open-source software projects on GitHub—and define an eight-step process involving both automated parts (e.g., using a procedure based on the SZZ algorithm to find the vulnerability-contributing commits) and manual analyses (e.g., how vulnerabilities were fixed). The investigated vulnerabilities can be classified in 144 categories, take on average at least 4 contributing commits before being introduced, and half of them remain unfixed for at least more than one year. Most of the contributions are done by developers with high workload, often when doing maintenance activities, and removed mostly with the addition of new source code aiming at implementing further checks on inputs. We conclude by distilling practical implications on how vulnerability detectors should work to assist developers in timely identifying these issues.},
     keywords={},
     doi={10.1109/TSE.2022.3140868},
+    url={https://ieeexplore.ieee.org/document/9672730},
     ISSN={1939-3520},
     month={Jan}
 }
@@ -97,7 +98,7 @@
     pages = {102731},
     year = {2022},
     issn = {0167-6423},
-    doi = {https://doi.org/10.1016/j.scico.2021.102731},
+    doi = {10.1016/j.scico.2021.102731},
     url = {https://www.sciencedirect.com/science/article/pii/S0167642321001246},
     author = {Manuel {De Stefano} and Emanuele Iannone and Fabiano Pecorelli and Damian Andrew Tamburri},
     keywords = {Community patterns, Community smells, Empirical studies},
@@ -120,6 +121,7 @@
     abstract={Software security concerns the creation of secure software starting from its initial development phases, i.e., software that can withstand malicious attacks. To this end, several automated and not-automated solutions have been developed that support developers in identifying and assessing security issues, e.g., software vulnerabilities. However, most solutions were not meant to cooperate synergically or continuously run in the context of evolving software, i.e., software subject to frequent maintenance and evolution activities. In this scenario, developers have trouble setting up an effective defensive line against security issues arising in their projects. This research fills this gap by investigating how vulnerabilities affect evolving software projects and by proposing novel solutions to improve and simplify the security verification and validation process. The paper concludes by presenting the open challenges in the field of software security we framed while conducting our research.},
     keywords={},
     doi={10.1109/ICSME55016.2022.00085},
+    url={https://ieeexplore.ieee.org/document/9978223},
     ISSN={2576-3148},
     month={Oct}
 }
@@ -140,6 +142,7 @@
     abstract={Mobile applications usage has considerably increased since the last decade. Successful apps need to make the users feel comfortable while using them, thus demanding high-quality design and implementation. One of the most influencing factors for user experience is battery consumption, which should have the minimum possible impact on the battery. The current body of knowledge on energy consumption measurement only reports approaches relying on complex instrumentation or stressing the application with many test scenarios, thus making it hard to measure energy consumption in practice. In this work, we explore the performance of machine learning to predict the energy consumption level of JAVA classes in Android apps, leveraging only a set of structural properties extracted via source code analysis, without requiring any hardware measurements tools or executing the app at all. The preliminary results show the poor performance of learning-based estimation models, likely caused by (1) an insufficient amount of training data, (2) a limited feature set, and (3) an inappropriate way to label the dependent variable. The paper concludes by presenting the limitations of the experimented models and the possible strategies to address them.},
     keywords={},
     doi={10.1145/3524613.3527805},
+    url={https://dl.acm.org/doi/10.1145/3524613.3527805},
     ISSN={},
     month={May}
 }
@@ -158,9 +161,10 @@
     volume={},
     number={},
     pages={731-742},
-    abstract={Software refactoring is the activity associated with developers changing the internal structure of source code without modifying its external behavior. The literature argues that refactoring might have beneficial and harmful implications for software maintainability, primarily when performed without the support of automated tools. This paper continues the narrative on the effects of refactoring by exploring the dimension of program comprehension, namely the property that describes how easy it is for developers to understand source code. We start our investigation by assessing the basic unit of program comprehension, namely program readability. Next, we set up a large-scale empirical investigation – conducted on 156 open-source projects – to quantify the impact of refactoring on program readability. First, we mine refactoring data and, for each commit involving a refactoring, we compute (i) the amount and type(s) of refactoring actions performed and (ii) eight state-of-the-art program comprehension metrics. Afterwards, we build statistical models relating the various refactoring operations to each of the readability metrics considered to quantify the extent to which each refactoring impacts the metrics in either a positive or negative manner. The key results are that refactoring has a notable impact on most of the readability metrics considered.},
+    abstract={Software refactoring is the activity associated with developers changing the internal structure of source code without modifying its external behavior. The literature argues that refactoring might have beneficial and harmful implications for software maintainability, primarily when performed without the support of automated tools. This paper continues the narrative on the effects of refactoring by exploring the dimension of program comprehension, namely the property that describes how easy it is for developers to understand source code. We start our investigation by assessing the basic unit of program comprehension, namely program readability. Next, we set up a large-scale empirical investigation - conducted on 156 open-source projects - to quantify the impact of refactoring on program readability. First, we mine refactoring data and, for each commit involving a refactoring, we compute (i) the amount and type(s) of refactoring actions performed and (ii) eight state-of-the-art program comprehension metrics. Afterwards, we build statistical models relating the various refactoring operations to each of the readability metrics considered to quantify the extent to which each refactoring impacts the metrics in either a positive or negative manner. The key results are that refactoring has a notable impact on most of the readability metrics considered.},
     keywords={},
     doi={10.1109/SANER53432.2022.00090},
+    url={https://ieeexplore.ieee.org/document/9825885},
     ISSN={1534-5351},
     month={March}
 }
@@ -182,6 +186,7 @@
     abstract={Modern software applications, including commercial ones, extensively use Open-Source Software (OSS) components, accounting for 90{%} of software products on the market. This has serious security implications, mainly because developers rely on non-updated versions of libraries affected by software vulnerabilities. Several tools have been developed to help developers detect these vulnerable libraries and assess and mitigate their impact. The most advanced tools apply sophisticated reachability analyses to achieve high accuracy; however, they need additional data (in particular, concrete execution traces, such as those obtained by running a test suite) that is not always readily available.In this work, we propose SIEGE, a novel automatic exploit generation approach based on genetic algorithms, which generates test cases that execute the methods in a library known to contain a vulnerability. These test cases represent precious, concrete evidence that the vulnerable code can indeed be reached; they are also useful for security researchers to better understand how the vulnerability could be exploited in practice. This technique has been implemented as an extension of EVOSUITE and applied on set of 11 vulnerabilities exhibited by widely used OSS JAVA libraries. Our initial findings show promising results that deserve to be assessed further in larger-scale empirical studies.},
     keywords={},
     doi={10.1109/ICPC52881.2021.00046},
+    url={https://ieeexplore.ieee.org/document/9462983},
     ISSN={2643-7171},
     month={May}
 }
@@ -198,7 +203,7 @@
     isbn = {9781450379588},
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3387904.3389298},
+    url = {https://dl.acm.org/doi/10.1145/3387904.3389298},
     doi = {10.1145/3387904.3389298},
     abstract = {Mobile applications are major means to perform daily actions, including social and emergency connectivity. However, their usability is threatened by energy consumption that may be impacted by code smells i.e., symptoms of bad implementation and design practices. In particular, researchers derived a set of mobile-specific code smells resulting in increased energy consumption of mobile apps and removing such smells through refactoring can mitigate the problem. In this paper, we extend and revise aDoctor, a tool that we previously implemented to identify energy-related smells. On the one hand, we present and implement automated refactoring solutions to those smells. On the other hand, we make the tool completely open-source and available in Android Studio as a plugin published in the official store. The video showing the tool in action is available at: https://www.youtube.com/watch?v=1c2EhVXiKis},
     booktitle = {Proceedings of the 28th International Conference on Program Comprehension},
