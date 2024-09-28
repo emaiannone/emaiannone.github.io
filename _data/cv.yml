@@ -16,7 +16,9 @@
     - title: Postdoctoral Researcher (Research Assistant)
       institution: Hamburg University of Technology, Hamburg
       year: 2023.11 -
-      description: "Working on designing novel automated vulnerability repair solutions in the context of Horizon EU project 'Cybersecurity for AI-Augmented Systems' (Sec4AI4Sec, grant ID: 101120393)"
+      description:
+        - "Research on security vulnerability testing."
+        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon EU project 'Cybersecurity for AI-Augmented Systems' (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)."
 
 - title: Education
   type: time_table
@@ -47,35 +49,56 @@
         - "Supervisor: Prof. Andrea De Lucia"
         - "Thesis title: Automated Refactoring of Energy-Related Code Smells of Android Applications"
 
-- title: Internships
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: "Cybersecurity for AI-Augmented Systems (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
+      institution: Hamburg University of Technology, Hamburg
+      year: 2023.11 - 
+      description: "Work Package on the design of novel automated vulnerability repair solutions"
+
+- title: Research Internships
   type: time_table
   contents:
     - title: Visiting Ph.D. Student 
       institution: University of Luxembourg, SnT, Luxembourg, Luxembourg
       year: 2022.10 - 2022.12
+      desctiption: "Synthesizing Commit Messages from Bug Reports with Pre-trained Transformers"
     - title: Visiting Ph.D. Student 
       institution: Tampere University, Tampere, Finland
       year: 2022.05 - 2022.06
+      description: "Detecting Vulnerability in Open-Source Software with Crowd-Sourced Information"
 
-- title: Awards
+- title: Awards and Recognitions
   type: time_table
   contents:
+    - year: 2023
+      title: <i class="fas fa-award"></i> <a href="https://ieeexplore.ieee.org/document/10473612">TSE 2023 Distinguished Reviewer Award</a>
     - year: 2022
       title: <i class="fas fa-award"></i> SANER 2022 Distinguished Paper Award
       items:
         - "Toward Understanding the Impact of Refactoring on Program Comprehension"
-    - year: 2023
-      title: <i class="fas fa-award"></i> <a href="https://ieeexplore.ieee.org/document/10473612">TSE 2023 Distinguished Reviewer Award</a>
 
 - title: Community Services
   type: nested_list
   contents:
     - title: Event Organization
       items:
-        - <a href="https://secute-ws.github.io/">1st Workshop on Security Testing for Complex Software Systems (SECUTE 2024)</a>
+        - <a href="https://secute-ws.github.io/">SECUTE'24 (1st Workshop on Security Testing for Complex Software Systems)</a>
     - title: Program Commitees
       items:
-        - <i>Will upload soon!</i>
+        - <a href="https://conf.researchr.org/track/saner-2025/saner-2025-papers">SANER'25 (Research Track)</a>
+        - <a href="https://sqa4ai2025.github.io/SQA4AI2025/committe.html">SQA4AI'25</a>
+        - <a href="https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track">ICSME'24 (NIER Track)</a>
+        - <a href="https://conf.researchr.org/track/ase-2024/ase-2024-nier-track">ASE'24 (NIER Track)</a>
+        - <a href="https://2024.msrconf.org/track/msr-2024-data-and-tool-showcase-track">MSR'24 (Data-Tool Track)</a>
+        - <a href="https://conf.researchr.org/track/saner-2024/saner-2024-papers">SANER'24 (Research Track)</a>
+        - <a href="https://conf.researchr.org/track/mobilesoft-2023/mobilesoft-2023-research-track">MOBILESoft'23 (Research Track)</a>
+        - <a href="https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc">MSR'23 (Junior PC)</a>
+        - <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-rene---nier">SSBSE'22 (RENE-NIER Track)</a>
+        - <a href="https://conf.researchr.org/track/ase-2024/ase-2022-nier-track">ASE'22 (NIER Track)</a>
+        - <a href="https://sqa4ai.github.io/sqa4ai2022/committe.html">SQA4AI'22</a>
+        - <a href="https://www.iaria.org/conferences2021/ComICSEA21.html">ICSEA'21</a>
     - title: Other Services
       items:
         - <a href="https://www.sciencedirect.com/journal/science-of-computer-programming/about/editorial-board">Science of Computer Programming Social Media Editor</a>
@@ -83,9 +106,9 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Software Vulnerability Testing and Analysis
+    - title: Security Vulnerability Testing and Analysis
       items: 
-        - Security Testing
+        - Security Vulnerability Testing
         - Automated Exploit Generation
         - Automated Vulnerability Repair
         - Exploitability Assessment
@@ -96,6 +119,8 @@
         - Vulnerability Test Retrieval
     - title: Other Topics
       items:
-        - Software Quality
+        - Human Aspects in Software Security
+        - Program Comprehension
         - Software Refactoring
+        - Organizational Aspects in Software Engineering
         - Green Software Engineering
