@@ -15,7 +15,7 @@
   contents:
     - title: Postdoctoral Researcher (Research Assistant)
       institution: Hamburg University of Technology, Hamburg
-      year: 2023.11 -
+      year: 2023.11 - curr.
       description:
         - "Research on security vulnerability testing."
         - "Working on designing novel automated vulnerability repair solutions in the context of Horizon EU project 'Cybersecurity for AI-Augmented Systems' (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)."
@@ -84,39 +84,54 @@
   contents:
     - title: Event Organization
       items:
-        - <a href="https://secute-ws.github.io/">SECUTE'24 (1st Workshop on Security Testing for Complex Software Systems)</a>
+        - <a href="https://secute-ws.github.io/">SECUTE'24 (1st Workshop on Security Testing for Complex Software Systems</a>) | Organizing Co-Chair
+        - <a href="https://conf.researchr.org/committee/icpc-2021/icpc-2021-organizing-committee">ICPC'21</a> | Publicity Co-Chair
     - title: Program Commitees
       items:
-        - <a href="https://conf.researchr.org/track/saner-2025/saner-2025-papers">SANER'25 (Research Track)</a>
+        - EASE'25 (<a href="https://conf.researchr.org/track/ease-2025/ease-2025-posters-and-vision">Posters and Vision</a>)
+        - ICSME'25 (<a href="https://conf.researchr.org/track/icsme-2025/icsme-2025-papers">Research</a>, <a href="https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration">Tool Demonstration</a>)
+        - <a href="https://demessai.github.io/">DeMeSSAI'25</a>
+        - FSE'25 (<a href="https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections">Ideas, Visions and Reflections</a>)
+        - MSR'25 (<a href="https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track">Data and Tool Showcase</a>)
+        - SANER'25<a href="https://conf.researchr.org/track/saner-2025/saner-2025-papers"> (Research</a>)
         - <a href="https://sqa4ai2025.github.io/SQA4AI2025/committe.html">SQA4AI'25</a>
-        - <a href="https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track">ICSME'24 (NIER Track)</a>
-        - <a href="https://conf.researchr.org/track/ase-2024/ase-2024-nier-track">ASE'24 (NIER Track)</a>
-        - <a href="https://2024.msrconf.org/track/msr-2024-data-and-tool-showcase-track">MSR'24 (Data-Tool Track)</a>
-        - <a href="https://conf.researchr.org/track/saner-2024/saner-2024-papers">SANER'24 (Research Track)</a>
-        - <a href="https://conf.researchr.org/track/mobilesoft-2023/mobilesoft-2023-research-track">MOBILESoft'23 (Research Track)</a>
-        - <a href="https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc">MSR'23 (Junior PC)</a>
-        - <a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-rene---nier">SSBSE'22 (RENE-NIER Track)</a>
-        - <a href="https://conf.researchr.org/track/ase-2024/ase-2022-nier-track">ASE'22 (NIER Track)</a>
+        - ICSME'24 (<a href="https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track">NIER</a>)
+        - ASE'24 (<a href="https://conf.researchr.org/track/ase-2024/ase-2024-nier-track">NIER</a>)
+        - MSR'24 (<a href="https://2024.msrconf.org/track/msr-2024-data-and-tool-showcase-track">Data and Tool Showcase</a>)
+        - SANER'24 (<a href="https://conf.researchr.org/track/saner-2024/saner-2024-papers">Research</a>)
+        - SSBSE'23 (<a href="https://conf.researchr.org/track/ssbse-2023/ssbse-2023-rene-nier">RENE-NIER</a>)
+        - MOBILESoft'23 (<a href="https://conf.researchr.org/track/mobilesoft-2023/mobilesoft-2023-research-track">Research</a>)
+        - MSR'23 (<a href="https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc">Junior PC</a>)
+        - SSBSE'22 (<a href="https://conf.researchr.org/track/ssbse-2022/ssbse-2022-rene---nier">RENE-NIER</a>)
+        - ASE'22 (<a href="https://conf.researchr.org/track/ase-2024/ase-2022-nier-track">NIER</a>)
         - <a href="https://sqa4ai.github.io/sqa4ai2022/committe.html">SQA4AI'22</a>
         - <a href="https://www.iaria.org/conferences2021/ComICSEA21.html">ICSEA'21</a>
+    - title: Journal Services
+      items:
+        - Guest Editor for <a href="https://emsejournal.github.io/special_issues/2024_SI_SECUTE.html">EMSE's Special Issue on "Security Testing for Complex Software Systems (SECUTE)"</a>
+        - Referee for several software engineering-themed journals (TSE, TOSEM, EMSE, JSS, AUSE, JSEP, SCICO)
     - title: Other Services
       items:
-        - <a href="https://www.sciencedirect.com/journal/science-of-computer-programming/about/editorial-board">Science of Computer Programming Social Media Editor</a>
+        - <a href="https://www.sciencedirect.com/journal/science-of-computer-programming/about/editorial-board">Science of Computer Programming Social Media Editor</a> (ongoing)
+        - <a href="https://conf.researchr.org/track/ease-2024/ease-2024-doctoral-symposium">EASE'24 Doctoral Symposium Board Advisor</a>
+        - <a href="http://sattose.org/2023">SATToSE’23 Local Arrangement Team</a>
+        - <a href="https://sesalabunisa.github.io/ISSSE-2023/">ISSSE’23 Local Arrangement Team</a>
+        - <a href="https://conf.researchr.org/track/icse-2022/icse-2022-student-volunteers">ICSE’22 Student Volunteer</a>
 
 - title: Research Interests
   type: nested_list
   contents:
     - title: Security Vulnerability Testing and Analysis
       items: 
-        - Security Vulnerability Testing
+        - Security Testing
         - Automated Exploit Generation
         - Automated Vulnerability Repair
         - Exploitability Assessment
         - Vulnerability Prediction Modeling
     - title: Mining Software Repositories for Security
       items:
+        - Security Test Case Retrieval
         - Vulnerability-Contributing and Fixing Commit Retrieval
-        - Vulnerability Test Retrieval
     - title: Other Topics
       items:
         - Human Aspects in Software Security
