@@ -50,11 +50,11 @@ In September 2020, I earned an M.Sc. Degree in Computer Science at the Universit
 
 I am 100% Salernitan. I was born in [Salerno](https://it.wikipedia.org/wiki/Salerno), grew up there, and want to school there. I am a proud millennial, born in 1996. I have always been fond of video games, especially role-playing games (RPG), and I used to play them for hours each day. But since my professional life has given me new perspectives, I have had to change my habits and switch to more flexible hobbies, though sometimes I go back doing some retro gaming (nostalgia kicks in).
 
-If you want to hear me talking for an indefinite amount of time, just introduce the topic *Pokémon*. If you want to hear me only for few hours, you can pick one among *Final Fantasy*, *Attack on Titan*, *Steins;Gate*, *Dragon Ball* and *Jojo's Bizzare Adventures*.
+If you want to hear me talking for an indefinite amount of time, just introduce the topic *Pokémon*. If you want to hear me only for few hours, you can pick one among *Final Fantasy*, *Attack on Titan*, *Steins;Gate*, *Dragon Ball* and *JoJo's Bizarre Adventures*.
 
 Random facts about me:
 
-- Apparently people have trouble with my last name. They keep misspelling it...
+- Apparently people have trouble with my last name. They keep misspelling it... It's an "I" (the letter after H), not a lowercase "L". It would be weird to have a last name staring with a lowercase letter, isn't it?
 - I am former World of Warcraft player with a Human Retribution Paladin (*For the Alliance*, deal with it).
 
 Contact me at: `<first-name>.<last-name>@tuhh.de`
