@@ -1,3 +1,31 @@
+"Hegedűs":
+  - firstname: ["Hegedűs", "P."]
+    url: https://www.inf.u-szeged.hu/~hpeter/
+
+"Tony":
+  - firstname: ["Tony", "C."]
+    url: https://de.linkedin.com/in/catherine-tony
+
+"Camporese":
+  - firstname: ["Camporese", "M."]
+    url: https://it.linkedin.com/in/mariacamporese
+
+"Hinrichs":
+  - firstname: ["Hinrichs", "T."]
+    url: https://www.researchgate.net/profile/Torge-Hinrichs
+
+"Massacci":
+  - firstname: ["Massacci", "F."]
+    url: https://fabiomassacci.github.io/
+
+"Scandariato":
+  - firstname: ["Scandariato", "R."]
+    url: https://scandariato.org/
+
+"Bui":
+  - firstname: ["Quang-Cuong", "Q. -C.", "Q."]
+    url: https://cuong.buiquang.com/
+
 "Iaccarino":
   - firstname: ["Emanuele", "E."]
     url: https://iaccarino.dev/
