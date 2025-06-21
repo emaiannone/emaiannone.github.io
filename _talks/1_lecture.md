@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MSR for Vulnerability Prediction: Mining Vulnerability-Contributing Commits"
-description: Cybersecurity Data Science M.Sc. Course, Hamburg University of Technology, Hamburg, May 31, 2023
+description: Cybersecurity Data Science M.Sc. Course, Hamburg University of Technology, Hamburg. May 31, 2023.
 img: assets/img/talk_preview/l1.png
 download: /assets/pdf/l1.pdf
 importance: 1

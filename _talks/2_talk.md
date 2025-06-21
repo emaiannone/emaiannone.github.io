@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Mining Software Repositories for Vulnerability Prediction:
-Lessons Learned, Challenges, and Recommendations"
-description: 1st Summer School on Security Testing and Verification, 20-21-22 September 2022, Leuven, Belgium
+title: "Mining Software Repositories for Vulnerability Prediction: Lessons Learned, Challenges, and Recommendations"
+description: 1st Summer School on Security Testing and Verification, Leuven, Belgium. 20-22 September 2022.
 img: /assets/img/talk_preview/t2.png
 download: /assets/pdf/t2.pdf
 importance: 1

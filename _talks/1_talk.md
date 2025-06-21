@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Automated Test Case Generation: Toward Its Application in Exploit Generation for Known Vulnerabilities"
-description: SAP Security Research Exchange Meeting, Online, July 8, 2021
+description: SAP Security Research Exchange Meeting, Online. July 8, 2021.
 img: /assets/img/talk_preview/t1.png
 download: /assets/pdf/t1.pdf
 importance: 1
