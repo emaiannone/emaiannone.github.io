@@ -1,6 +1,50 @@
 ---
 ---
 
+@inproceedings{tony:icsme2025:rag:secure:code:gen,
+    pdf={c6.pdf},
+    preview={preview_c6.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={ICSME},
+    author = {Tony, Catherine and Iannone, Emanuele and Scandariato, Riccardo},
+    title = {Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation},
+    year = {2025},
+    abstract = {Large Language Models (LLMs) are increasingly used for code generation, but they often produce code with security vulnerabilities. While techniques like fine-tuning and instruction tuning can improve security, they are computationally expensive and require large amounts of secure code data. Recent studies have explored prompting techniques to enhance code security without additional training. Among these, Recursive Criticism and Improvement (RCI) has demonstrated strong improvements by iteratively refining the generated code by leveraging LLMs’ self-critiquing capabilities. However, RCI relies on the model’s ability to identify security flaws, which is constrained by its training data and susceptibility to hallucinations. This paper investigates the impact of incorporating task-specific secure coding guidelines extracted from MITRE’s CWE and CodeQL recommendations into LLM prompts. For this, we employ Retrieval-Augmented Generation (RAG) to dynamically retrieve the relevant guidelines that help the LLM avoid generating insecure code. We compare RAG with RCI, observing that both deliver comparable performance in terms of code security, with RAG consuming considerably less time and fewer tokens. Additionally, combining both approaches further reduces the amount of insecure code generated, requiring only slightly more resources than RCI alone, highlighting the benefit of adding relevant guidelines in improving LLM-generated code security.},
+    keywords = {Secure Code Generation, Retrieval Augmented Generation, Prompt Engineering, Large Language Models.}
+}
+
+@misc{iannone:arxiv2025:vuteco,
+    selected={true},
+    pdf={a2.pdf},
+    preview={preview_a2.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={arXiv},
+    title={A Match Made in Heaven? Matching Test Cases and Vulnerabilities With the VUTECO Approach}, 
+    author={Emanuele Iannone and Quang-Cuong Bui and Riccardo Scandariato},
+    year={2025},
+    eprint={2502.03365},
+    archivePrefix={arXiv},
+    primaryClass={cs.SE},
+    url={https://arxiv.org/abs/2502.03365}, 
+}
+
+@misc{bui:arxiv2025:slr:aeg,
+    pdf={a1.pdf},
+    preview={preview_a1.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={arXiv},
+    title={A Systematic Literature Review on Automated Exploit and Security Test Generation}, 
+    author={Quang-Cuong Bui and Emanuele Iannone and Maria Camporese and Torge Hinrichs and Catherine Tony and László Tóth and Fabio Palomba and Péter Hegedűs and Fabio Massacci and Riccardo Scandariato},
+    year={2025},
+    eprint={2502.04953},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    url={https://arxiv.org/abs/2502.04953}, 
+}
+
 @article{iannone:tosem2024:exploitability:prediction,
     selected={true},
     pdf={j5.pdf},
@@ -22,7 +66,7 @@
     keywords = {Exploitability Prediction, Software Vulnerabilities, Machine Learning, Text Mining, Natural Language Processing.}
 }
 
-@Article{iannone:emse2023:refactoring:security,
+@article{iannone:emse2023:refactoring:security,
     pdf={j4.pdf},
     preview={preview_j4.png},
     bibtex_show={true},
@@ -64,7 +108,7 @@
     abstract = {Background: Software vulnerabilities are weaknesses in source code that might be exploited to cause harm or loss. Previous work has proposed a number of automated machine learning approaches to detect them. Most of these techniques work at release-level, meaning that they aim at predicting the files that will potentially be vulnerable in a future release. Yet, researchers have shown that a commit-level identification of source code issues might better fit the developer’s needs, speeding up their resolution. Objective: To investigate how currently available machine learning-based vulnerability detection mechanisms can support developers in the detection of vulnerabilities at commit-level. Method: We perform an empirical study where we consider nine projects accounting for 8991 commits and experiment with eight machine learners built using process, product, and textual metrics. Results: We point out three main findings: (1) basic machine learners rarely perform well; (2) the use of ensemble machine learning algorithms based on boosting can substantially improve the performance; and (3) the combination of more metrics does not necessarily improve the classification capabilities. Conclusion: Further research should focus on just-in-time vulnerability detection, especially with respect to the introduction of smart approaches for feature selection and training strategies.}
 }
 
-@ARTICLE{iannone:tse2022:secret:life,
+@article{iannone:tse2022:secret:life,
     selected={true},
     pdf={j2.pdf},
     preview={preview_j2.png},
@@ -106,7 +150,7 @@
     abstract = {Software engineering projects are now more than ever a community effort. In the recent past, researchers have shown that their success not only depends on source code quality, but also on other aspects like the balance of power distance, culture, and global engineering practices, and more. In such a scenario, understanding the characteristics of the community around a project and foresee possible problems may be the key to develop successful systems. In this paper, we focus on this research problem and propose an exploratory study on the relation between community patterns, i.e.,recurrent mixes of organizational or social structure types, and aspects related to the quality of software products and processes by mining open-source software repositories hosted on GitHub. We first exploit association rule mining to discover frequent relations between community pattern and community smells, i.e.,sub-optimal patterns across the organizational structure of a software development community that may be precursors of some form of social debt. Further on, we use statistical analyses to understand their impact on software maintainability and on the community engagement, in terms of contributions and issues. Our findings show that different organizational patterns are connected to different forms of socio-technical problems; further on, specific combinations are set in equally specific contextual conditions. Findings support two possible conclusions: (1) practitioners should put in place specific preventive actions aimed at avoiding the emergence of community smells and (2) such actions should be drawn according to the contextual conditions of the organization and the project.}
 }
 
-@INPROCEEDINGS{iannone:icsme2022:symposium,
+@inproceedings{iannone:icsme2022:symposium,
     pdf={c5.pdf},
     preview={preview_c5.png},
     bibtex_show={true},
@@ -127,7 +171,7 @@
     month={oct}
 }
 
-@INPROCEEDINGS{iannone:mobilesoft2022:predicting,
+@inproceedings{iannone:mobilesoft2022:predicting,
     pdf={c4.pdf},
     preview={preview_c4.png},
     bibtex_show={true},
@@ -148,7 +192,7 @@
     month={may}
 }
 
-@INPROCEEDINGS{sellitto:saner2022:toward,
+@inproceedings{sellitto:saner2022:toward,
     pdf={c3.pdf},
     preview={preview_c3.png},
     bibtex_show={true},
