@@ -1,25 +1,25 @@
 "Hegedűs":
-  - firstname: ["Hegedűs", "P."]
+  - firstname: ["Péter", "P."]
     url: https://www.inf.u-szeged.hu/~hpeter/
 
 "Tony":
-  - firstname: ["Tony", "C."]
+  - firstname: ["Catherine", "C."]
     url: https://de.linkedin.com/in/catherine-tony
 
 "Camporese":
-  - firstname: ["Camporese", "M."]
+  - firstname: ["Maria", "M."]
     url: https://it.linkedin.com/in/mariacamporese
 
 "Hinrichs":
-  - firstname: ["Hinrichs", "T."]
+  - firstname: ["Torge", "T."]
     url: https://www.researchgate.net/profile/Torge-Hinrichs
 
 "Massacci":
-  - firstname: ["Massacci", "F."]
+  - firstname: ["Fabio", "F."]
     url: https://fabiomassacci.github.io/
 
 "Scandariato":
-  - firstname: ["Scandariato", "R."]
+  - firstname: ["Riccardo", "R."]
     url: https://scandariato.org/
 
 "Bui":
