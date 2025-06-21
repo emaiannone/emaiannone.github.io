@@ -2,8 +2,8 @@
 layout: page
 title: "(Dynamic) Security Testing and Exploit Generation"
 description: International School, University of Salerno, Avellino, Italy. June 16, 2025.
-img: /assets/img/talk_preview/t2.png
-download: /assets/pdf/t2.pdf
+img: /assets/img/talk_preview/l2.png
+download: /assets/pdf/l2.pdf
 importance: 1
 category: lecture
 ---
