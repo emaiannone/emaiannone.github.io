@@ -1,6 +1,20 @@
 ---
 ---
 
+@inproceedings{cannavale:seaa2025:szz:vuln,
+    pdf={c7.pdf},
+    preview={preview_c7.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={SEAA},
+    author = {Cannavale, Alfonso and Iannone, Emanuele and {Di Lillo}, Gianluca and Palomba, Fabio and {De Lucia}, Andrea},
+    booktitle = {51th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) (To Appear)}, 
+    title = {The Ground Truth Effect: Investigating SZZ Variants in Just-in-Time Vulnerability Prediction},
+    year = {2025},
+    month = {sept},
+    abstract = {Just-in-Time (JIT) vulnerability prediction is critical for proactively securing software, yet its effectiveness heavily relies on the quality of the ground truth used for training models. This ground truth is commonly established using variants of the SZZ algorithm to identify vulnerability-contributing commits (VCCs). However, the impact of choosing a specific SZZ variant on model performance remains largely unexplored. In this study, we systematically investigate the effect of eight SZZ variants on JIT vulnerability prediction across seven open-source Java projects. Our findings reveal that the choice of the SZZ variant is a non-trivial factor. Models trained with datasets labeled by variants like B-SZZ, V-SZZ, and VCC-SZZ achieve strong and stable predictive performance, with median MCC scores often exceeding 0.50. In contrast, variants such as L-SZZ and R-SZZ produce models that perform no better than random chance, with median MCC scores close to 0.0. This performance gap demonstrates that an inappropriate SZZ variant can invalidate prediction models, underscoring the necessity of a principled approach to defining ground truth.}
+}
+
 @inproceedings{tony:icsme2025:rag:secure:code:gen,
     pdf={c6.pdf},
     preview={preview_c6.png},
@@ -8,7 +22,7 @@
     dimensions={true},
     abbr={ICSME},
     author = {Tony, Catherine and Iannone, Emanuele and Scandariato, Riccardo},
-    booktitle = {2025 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
+    booktitle = {2025 IEEE International Conference on Software Maintenance and Evolution (ICSME) (To Appear)}, 
     title = {Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation},
     year = {2025},
     month = {sept},
@@ -25,6 +39,7 @@
     abbr={arXiv},
     title={A Match Made in Heaven? Matching Test Cases and Vulnerabilities With the VUTECO Approach}, 
     author={Emanuele Iannone and Quang-Cuong Bui and Riccardo Scandariato},
+    month={feb},
     year={2025},
     eprint={2502.03365},
     archivePrefix={arXiv},
@@ -40,6 +55,7 @@
     abbr={arXiv},
     title={A Systematic Literature Review on Automated Exploit and Security Test Generation}, 
     author={Quang-Cuong Bui and Emanuele Iannone and Maria Camporese and Torge Hinrichs and Catherine Tony and László Tóth and Fabio Palomba and Péter Hegedűs and Fabio Massacci and Riccardo Scandariato},
+    month={feb},
     year={2025},
     eprint={2502.04953},
     archivePrefix={arXiv},
