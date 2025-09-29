@@ -1,6 +1,28 @@
 ---
 ---
 
+@article{hinrichs:tosem2025:szz:vcc,
+    selected={true},
+    pdf={j6.pdf},
+    preview={preview_j6.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={TOSEM},
+    author = {Hinrichs, Torge and Iannone, Emanuele and Aladics, Tam\'{a}s and Hegedundefineds, P\'{e}ter and De Lucia, Andrea and Palomba, Fabio and Scandariato, Riccardo},
+    title = {Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits},
+    year = {2025},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    issn = {1049-331X},
+    url = {https://doi.org/10.1145/3769105},
+    doi = {10.1145/3769105},
+    abstract = {Context: Vulnerability-contributing commits (VCCs) are code changes that introduce vulnerabilities. Mining historical VCCs relies on SZZ-based algorithms that trace from known vulnerability-fixing commits. Objective: Although these techniques have been used, e.g., to train just-in-time vulnerability predictors, they lack systematic benchmarking to evaluate their precision, recall, and error sources. Method: We empirically assessed 12 VCC mining techniques in Java repositories using two benchmark datasets (one from the literature and one newly curated). We also explored combinations of techniques, through intersections, voting schemes, and machine learning, to improve performance. Results: Individual techniques achieved at most 0.60 precision but up to 0.89 recall. The precision rose to 0.75 when the outputs were combined with the logical AND, at the expense of recall. Machine learning ensembles reached 0.80 precision with a better precision–recall balance. Performance varied significantly by dataset. Analyzing “fixing commits” showed that certain fix types (e.g., filtering or sanitization) affect retrieval accuracy, and failure patterns highlighted weaknesses when fixes involve external data handling. Conclusion: Such results help software security researchers select the most suitable mining technique for their studies and understand new ways to design more accurate solutions.},
+    note = {Just Accepted},
+    journal = {ACM Trans. Softw. Eng. Methodol.},
+    month = {sep},
+    keywords = {Mining Software Repositories, Software Vulnerability, Software Analytics, Machine Learning}
+}
+
 @inproceedings{cannavale:seaa2025:szz:vuln,
     pdf={c7.pdf},
     preview={preview_c7.png},
@@ -23,6 +45,7 @@
 }
 
 @inproceedings{tony:icsme2025:rag:secure:code:gen,
+    selected={true},
     pdf={c6.pdf},
     preview={preview_c6.png},
     bibtex_show={true},
@@ -71,7 +94,6 @@
 }
 
 @article{iannone:tosem2024:exploitability:prediction,
-    selected={true},
     pdf={j5.pdf},
     preview={preview_j5.png},
     bibtex_show={true},
