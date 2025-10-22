@@ -79,7 +79,7 @@
     - year: 2022
       title: <i class="fas fa-award"></i> SANER 2022 IEEE-CS TCSE Distinguished Paper Award
       items:
-        - <a href="https://ieeexplore.ieee.org/document/9825885>"Toward Understanding the Impact of Refactoring on Program Comprehension"</a>
+        - <a href="https://ieeexplore.ieee.org/document/9825885">Toward Understanding the Impact of Refactoring on Program Comprehension</a>
 
 - title: Community Services
   type: nested_list
