@@ -19,30 +19,35 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Emanuele (*/Eh-maa-noo-èh-leh/*), Postdoctoral Researcher (Research Assistant) at the [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/startseite), Germany.
+Hello, I am Emanuele (*/Eh-maa-noo-èh-leh/*), Postdoctoral Researcher (formally, a *Research Assistant*) at the [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/startseite), Germany.
 
-I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I dedicate my effort (and passion) to **security testing**. I am involved in the Horizon EU project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/), where I work on **automated mining and generation of proof of vulnerabilities** (i.e., vulnerability test cases) and developing novel **AI-driven vulnerability repair** solutions.
+I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I dedicate my effort (and passion) to **security testing**. I am involved in the Horizon EU project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/), where I work on **automated mining and generation of security unit tests** and developing novel **AI-driven vulnerability repair** solutions.
 
 In February 2024, I earned a Ph.D. in **Computer Science** at the [University of Salerno (UNISA)](https://www.unisa.it/), Italy. I defended a thesis on **software vulnerabilities** in the context of **software maintenance and evolution** (thesis title: *There's Something about Vulnerabilities: Empirical Comprehension and Novel Automated Approaches*), supervised (and academically raised) by [Prof. Fabio Palomba](https://fpalomba.github.io/) at the [Software Engineering (SeSa) Lab](https://sesalabunisa.github.io).
 
 My research is entirely rooted in Empirical Software Engineering. In this area, I focused on **software security**, in particular to *security testing*, *automated exploit generation*, *mining vulnerability-related data from software repositories*, and *vulnerability assessment*. I adopt AI tools and techniques on a daily basis, without forgetting the (good ol') heuristic and more traditional approaches.
 
-To summarize, my active research topics are:
+To summarize, my main research topics are:
 
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Security Vulnerability Testing  
-&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Mining Software Repositories & Software Analytics (esp. applied to vulnerability-related data)  
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Mining Software Repositories & Software Analytics (applied to vulnerability-related data)  
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: AI for Software Security Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: Search-based Software Engineering  
 
-I recently got interest in new topics:
+I have (re-)started working in these topics:
 
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Automated Exploit Generation  
 &nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Automatic Vulnerability Repair  
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Human Aspects in Software Security
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Secure Code Generation (and Security of AI-generated Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Vulnerability Data Synthesis  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Human (i.e., Developer) Aspects in Software Security  
 
 I have also worked on some others topics in the past:
 
+&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Exploitability Prediction and Assessment  
+&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Vulnerability Prediction  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Program Comprehension  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Software Refactoring  
+&nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Search-based Software Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Organizational Aspects in Software Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Mobile App Energy Consumption
 

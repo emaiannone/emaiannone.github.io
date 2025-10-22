@@ -55,7 +55,7 @@
     - title: "Cybersecurity for AI-Augmented Systems (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
       institution: Hamburg University of Technology, Hamburg
       year: 2023.11 - 
-      description: "Work Package on the design of novel automated vulnerability repair solutions"
+      description: "Work Package on 'Automatic Vulnerability Repair'"
 
 - title: Research Internships
   type: time_table
@@ -72,12 +72,14 @@
 - title: Awards and Recognitions
   type: time_table
   contents:
+    - year: 2025
+      title: <i class="fas fa-award"></i> <a href="https://conf.researchr.org/info/icsme-2025/icsme-2025-awards">ICSME 2025 Distinguished Reviewer Award</a>
     - year: 2023
       title: <i class="fas fa-award"></i> <a href="https://ieeexplore.ieee.org/document/10473612">TSE 2023 Distinguished Reviewer Award</a>
     - year: 2022
-      title: <i class="fas fa-award"></i> SANER 2022 Distinguished Paper Award
+      title: <i class="fas fa-award"></i> SANER 2022 IEEE-CS TCSE Distinguished Paper Award
       items:
-        - "Toward Understanding the Impact of Refactoring on Program Comprehension"
+        - <a href="https://ieeexplore.ieee.org/document/9825885>"Toward Understanding the Impact of Refactoring on Program Comprehension"</a>
 
 - title: Community Services
   type: nested_list
@@ -88,12 +90,18 @@
         - <a href="https://conf.researchr.org/committee/icpc-2021/icpc-2021-organizing-committee">ICPC'21</a> | Publicity Co-Chair
     - title: Program Commitees
       items:
+        - FSE'26 (<a href="https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition">Student Research Competition</a>)
+        - EASE'26 (<a href="https://conf.researchr.org/track/ease-2026/ease-2026-research-papers">Research</a>)
+        - <a href="https://sqa4ai-ws.github.io/">SQA4AI'26</a>
+        - MSR'26 (<a href="https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track">Data and Tool Showcase</a>)
+        - SANER'26 (<a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers">Research</a>)
+        - ASE'25 (<a href="https://conf.researchr.org/track/ase-2025/ase-2025-nier-track">NIER</a>)
         - EASE'25 (<a href="https://conf.researchr.org/track/ease-2025/ease-2025-posters-and-vision">Posters and Vision</a>)
         - ICSME'25 (<a href="https://conf.researchr.org/track/icsme-2025/icsme-2025-papers">Research</a>, <a href="https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration">Tool Demonstration</a>)
         - <a href="https://demessai.github.io/">DeMeSSAI'25</a>
         - FSE'25 (<a href="https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections">Ideas, Visions and Reflections</a>)
         - MSR'25 (<a href="https://2025.msrconf.org/track/msr-2025-data-and-tool-showcase-track">Data and Tool Showcase</a>)
-        - SANER'25<a href="https://conf.researchr.org/track/saner-2025/saner-2025-papers"> (Research</a>)
+        - SANER'25 (<a href="https://conf.researchr.org/track/saner-2025/saner-2025-papers">Research</a>)
         - <a href="https://sqa4ai2025.github.io/SQA4AI2025/committe.html">SQA4AI'25</a>
         - ICSME'24 (<a href="https://conf.researchr.org/track/icsme-2024/icsme-2024-new-ideas-and-emerging-results-track">NIER</a>)
         - ASE'24 (<a href="https://conf.researchr.org/track/ase-2024/ase-2024-nier-track">NIER</a>)
@@ -109,7 +117,7 @@
     - title: Journal Services
       items:
         - Guest Editor for <a href="https://emsejournal.github.io/special_issues/2024_SI_SECUTE.html">EMSE's Special Issue on "Security Testing for Complex Software Systems (SECUTE)"</a>
-        - Referee for several software engineering-themed journals (TSE, TOSEM, EMSE, JSS, AUSE, JSEP, SCICO)
+        - Referee for several software engineering-themed journals (TSE, TOSEM, EMSE, JSS, ASEJ, JSEP, SCICO)
     - title: Other Services
       items:
         - <a href="https://www.sciencedirect.com/journal/science-of-computer-programming/about/editorial-board">Science of Computer Programming Social Media Editor</a> (ongoing)
@@ -127,11 +135,13 @@
         - Automated Exploit Generation
         - Automated Vulnerability Repair
         - Exploitability Assessment
-        - Vulnerability Prediction Modeling
+        - Vulnerability Detection and Prediction
     - title: Mining Software Repositories for Security
       items:
-        - Security Test Case Retrieval
-        - Vulnerability-Contributing and Fixing Commit Retrieval
+        - Security Unit Tests
+        - Vulnerability-Contributing Commits
+        - Fixing Commits
+        - Vulnerability Data Synthesis
     - title: Other Topics
       items:
         - Human Aspects in Software Security
