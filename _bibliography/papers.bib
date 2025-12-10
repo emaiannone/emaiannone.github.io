@@ -1,6 +1,27 @@
 ---
 ---
 
+@Article{hinrichs:cyse2025:prompting:vuln,
+    pdf={j7.pdf},
+    preview={preview_j7.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={CySe},
+    author={Hinrichs, Torge and Iannone, Emanuele and Scandariato, Riccardo},
+    title={Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java},
+    journal={Cybersecurity},
+    year={2025},
+    month={Dec},
+    day={08},
+    volume={8},
+    number={1},
+    pages={111},
+    abstract={Predicting vulnerability in a code element, such as a function or method, often leverages machine or deep learning models to classify whether it is vulnerable or not. Recently, novel solutions exploiting conversational large language models (LLMs) have emerged, which allow the formulation of the task through a prompt containing natural language elements and the input code element, obtaining a natural language as a response. Although initial promising results, there is currently no broad exploration of (i) how the input prompt influences the prediction capabilities and (ii) what characteristics of the model response relate to correct predictions. In this paper, we conduct an empirical investigation into how accurately two popular conversational LLMs, i.e., GPT-3.5 and Llama-2, predict whether a Java method is vulnerable by employing a thorough prompting strategy by (i) adhering to the Zero-Shot and Zero-Shot Chain-of-Thought techniques and (ii) formulating the prediction task in alternative ways via rephrasing. After a manual inspection of the responses generated, we observed that GPT-3.5 displayed more variable F1 scores compared to Llama-2, which was steadier but often gave no direct classification. ZS prompts achieved F1 scores between 0.53 and 0.69, with a tendency of classifying methods positively (i.e., `vulnerable'); conversely, ZS-CoT presents a broader range of scores, varying from 0.35 to 0.72, with often inconsistencies in the results. Then, we phrased the task in their ``inverted form'', i.e., asking the LLM to check for the absence of vulnerabilities, which led to worse results for GPT-3.5, while Llama-2 occasionally performed better. The study further suggests that textual metrics provide important information on LLM outputs. Despite this, these metrics are not correlated with actual outcomes, as the models respond consistently with uniform confidence, irrespective of whether the outcome is correct or not. This underscores the need for customized prompt engineering and response analysis strategies to improve the precision and reliability of LLM-based systems for vulnerability prediction. In addition, we applied our study to two state-of-the-art LLMs, validating the broader applicability of our methodology. Finally, we performed an analysis of various textual properties of the model responses, such as response length and readability scores, to further explore the characteristics of the responses given for vulnerability detection tasks.},
+    issn={2523-3246},
+    doi={10.1186/s42400-025-00476-0},
+    url={https://link.springer.com/article/10.1186/s42400-025-00476-0}
+}
+
 @article{hinrichs:tosem2025:szz:vcc,
     selected={true},
     pdf={j6.pdf},
