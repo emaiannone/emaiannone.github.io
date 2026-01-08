@@ -1,5 +1,26 @@
 ---
 ---
+@inproceedings{iannone:msr2026:vuteco:sec:tests,
+    selected={true},
+    pdf={c8.pdf},
+    preview={preview_c8.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={MSR},
+    author={Iannone, Emanuele Bui, Quang-Cuong and Scandariato, Riccardo},
+    booktitle={2026 IEEE/ACM 23rd International Conference on Mining Software Repositories (MSR)}, 
+    title={A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests}, 
+    year={2026},
+    volume={},
+    number={},
+    pages={},
+    abstract={Software vulnerabilities are often detected via taint analysis, penetration testing, or fuzzing. They are also found via unit tests that exercise security-sensitive behavior with specific inputs, called vulnerability-witnessing tests. Generative AI models could help developers in writing them, but they require many examples to learn from, which are currently scarce. This paper introduces VuTeCo, an AI-driven framework for collecting examples of vulnerability- witnessing tests from Java repositories. VuTeCo carries out two tasks: (1) The "Finding" task to determine whether a unit test case is security-related, and (2) the "Matching" task to relate a test case to the vulnerability it witnesses. VuTeCo addresses the Finding task with UniXcoder, achieving an F0.5 score of 0.73 and a precision of 0.83 on a test set of unit tests from Vul4J. The Matching task is addressed using DeepSeek Coder, achieving an F0.5 score of 0.65 and a precision of 0.75 on a test set of pairs of unit tests and vulnerabilities from Vul4J. VuTeCo has been used in the wild on 427 Java projects and 1,238 vulnerabilities, obtaining 224 test cases confirmed to be security-related and 35 tests correctly matched to 29 vulnerabilities. The validated tests were collected in a new dataset called Test4Vul. VuTeCo lays the foundation for large-scale retrieval of vulnerability-witnessing tests, enabling future AI models to better understand and generate security unit tests},
+    keywords={Mining Software Repositories;Vulnerability-witnessing Tests;Security Testing;Unit Testing;Language Models},
+    doi={},
+    url = {},
+    ISSN={},
+    month={apr},
+}
 
 @Article{hinrichs:cyse2025:prompting:vuln,
     pdf={j7.pdf},
@@ -84,23 +105,6 @@
     url = {https://ieeexplore.ieee.org/document/11186069},
     ISSN={2576-3148},
     month={sept},
-}
-
-@misc{iannone:arxiv2025:vuteco,
-    selected={true},
-    pdf={a2.pdf},
-    preview={preview_a2.png},
-    bibtex_show={true},
-    dimensions={true},
-    abbr={arXiv},
-    title={A Match Made in Heaven? Matching Test Cases and Vulnerabilities With the VUTECO Approach}, 
-    author={Emanuele Iannone and Quang-Cuong Bui and Riccardo Scandariato},
-    month={feb},
-    year={2025},
-    eprint={2502.03365},
-    archivePrefix={arXiv},
-    primaryClass={cs.SE},
-    arxiv={2502.03365},
 }
 
 @misc{bui:arxiv2025:slr:aeg,
