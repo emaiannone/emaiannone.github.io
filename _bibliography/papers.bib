@@ -22,6 +22,28 @@
     month={apr},
 }
 
+@inproceedings{bui:saner2026:vulterminator:repair,
+    selected={true},
+    pdf={c9.pdf},
+    preview={preview_c9.png},
+    bibtex_show={true},
+    dimensions={true},
+    abbr={SANER},
+    author={Bui, Quang-Cuong and Iannone, Emanuele and Scandariato, Riccardo},
+    booktitle={2026 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)}, 
+    title={VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities}, 
+    year={2026},
+    volume={},
+    number={},
+    pages={},
+    abstract={Abstract—Mainstream techniques for Automated Vulnerability Repair (AVR) lean heavily on Large Language Models (LLMs) and treat the vulnerability repair as a code translation task. Yet, their effectiveness is limited due to the complex nature of vulnerability fixes and, possibly, the lack of training datasets in the Java programming language. On the other hand, template-based Automated Program Repair (APR) remains a popular way to fix general bugs. However, only a few approaches have ever employed vulnerability-specific fix templates. This paper introduces VulTerminator, a novel repair approach for Java vulnerabilities that leverages both heuristic-based and data-driven fix templates. The former are specialized for certain vulnerability types, such as XML External Entity (XXE) injection, which can be more easily patched with predefined heuristics. The latter aim to repair a broader class of vulnerabilities by generating common patch templates with masks, which are later filled by a fine-tuned Masked Language Model (MLM). In this paper, we introduce a total of eleven fix templates distilled from real-world Java patches and evaluate VulTerminator on 106 vulnerabilities with test cases from Vul4J+, as well as on 169 unseen vulnerabilities from a newly curated dataset called Vul4JL. VulTerminator achieves the best overall repair performance, outperforming the state-of-the- art approaches by 7% on Vul4J+ and 27% on Vul4JL, as confirmed by manual inspection. VulTerminator managed to fix 10 vulnerabilities in Vul4J+ and 16 in Vul4JL that no other approach could do, mainly due to the contribution of heuristic-based templates.},
+    keywords={Automated Vulnerability Repair;Automated Program Repair;Large Language Models},
+    doi={},
+    url = {},
+    ISSN={},
+    month={mar},
+}
+
 @Article{hinrichs:cyse2025:prompting:vuln,
     pdf={j7.pdf},
     preview={preview_j7.png},
