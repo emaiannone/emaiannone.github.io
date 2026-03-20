@@ -13,12 +13,12 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Postdoctoral Researcher (Research Assistant)
-      institution: Hamburg University of Technology, Hamburg
+    - title: Postdoctoral Researcher
+      institution: Institute of Software Security, Hamburg University of Technology, Hamburg
       year: 2023.11 - curr.
       description:
-        - "Research on security vulnerability testing."
-        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon EU project 'Cybersecurity for AI-Augmented Systems' (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)."
+        - "Research on code-level security vulnerability testing."
+        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon Europe project (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)."
 
 - title: Education
   type: time_table
@@ -30,31 +30,30 @@
         - "Supervisor: Prof. Fabio Palomba"
         - title: "Thesis title: There's Something About Vulnerabilities: Empirical Comprehension and Novel Automated Approaches"
           contents:
-            - Empirical Studies on Software vulnerabilities
-            - Vulnerability Prediction
+            - Empirical Studies on Software Vulnerabilities
+            - Mining Vulnerability Contributing Commits
+            - Just-in-time Vulnerability Prediction
             - Exploitability Prediction
-            - Automated Exploit Generation
+            - Third-party Vulnerability Testing
     - title: M.Sc. Degree in Computer Science
       institution: University of Salerno, Fisciano, Italy
       year: 2018.09 - 2020.09
       description:
-        - "Final Mark: 110/110 cum laude"
         - "Supervisors: Prof. Fabio Palomba, Prof. Andrea De Lucia"
         - "Thesis title: Toward Automatic Exploit Generation of Known API Vulnerabilities"
     - title: B.Sc. Degree in Computer Science
       institution: University of Salerno, Fisciano, Italy
       year: 2015.09 - 2018.07
       description:
-        - "Final Mark: 110/110 cum laude"
         - "Supervisor: Prof. Andrea De Lucia"
         - "Thesis title: Automated Refactoring of Energy-Related Code Smells of Android Applications"
 
 - title: Research Projects
   type: time_table
   contents:
-    - title: "Cybersecurity for AI-Augmented Systems (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
-      institution: Hamburg University of Technology, Hamburg
-      year: 2023.11 - 
+    - title: "<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a> (grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
+      institution: Institute of Software Security, Hamburg University of Technology, Hamburg, Germany
+      year: 2023.11 - curr.
       description: "Work Package on 'Automatic Vulnerability Repair'"
 
 - title: Research Internships
@@ -63,11 +62,11 @@
     - title: Visiting Ph.D. Student 
       institution: University of Luxembourg, SnT, Luxembourg, Luxembourg
       year: 2022.10 - 2022.12
-      desctiption: "Synthesizing Commit Messages from Bug Reports with Pre-trained Transformers"
+      desctiption: "Synthesizing commit messages from bug reports using pre-trained transformers."
     - title: Visiting Ph.D. Student 
       institution: Tampere University, Tampere, Finland
       year: 2022.05 - 2022.06
-      description: "Detecting Vulnerability in Open-Source Software with Crowd-Sourced Information"
+      description: "Detecting vulnerability in open-source software using crowd-sourced information."
 
 - title: Awards and Recognitions
   type: time_table
@@ -90,6 +89,9 @@
         - <a href="https://conf.researchr.org/committee/icpc-2021/icpc-2021-organizing-committee">ICPC'21</a> | Publicity Co-Chair
     - title: Program Commitees
       items:
+        - ICSME'26 (<a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-papers">Research</a>, <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-tool-demonstration">Tool Demonstration</a>), <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track">Industry</a>)
+        - <a href="https://demessai.github.io/">DeMeSSAI'26</a>
+        - ICST'26 (<a href="https://conf.researchr.org/track/icst-2026/icst-2026-testing-tools-and-data-showcase">Tools and Data Showcase</a>)
         - FSE'26 (<a href="https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition">Student Research Competition</a>)
         - EASE'26 (<a href="https://conf.researchr.org/track/ease-2026/ease-2026-research-papers">Research</a>)
         - <a href="https://sqa4ai-ws.github.io/">SQA4AI'26</a>
@@ -116,8 +118,8 @@
         - <a href="https://www.iaria.org/conferences2021/ComICSEA21.html">ICSEA'21</a>
     - title: Journal Services
       items:
-        - Guest Editor for <a href="https://emsejournal.github.io/special_issues/2024_SI_SECUTE.html">EMSE's Special Issue on "Security Testing for Complex Software Systems (SECUTE)"</a>
-        - Referee for several software engineering-themed journals (TSE, TOSEM, EMSE, JSS, ASEJ, JSEP, SCICO)
+        - Guest Editor for <a href="https://link.springer.com/article/10.1007/s10664-026-10839-x">EMSE's Special Issue on "Security Testing for Complex Software Systems (SECUTE)"</a>
+        - Reviewer for several software engineering-themed journals (TSE, TOSEM, EMSE, JSS, AUSE, JSEP, SCICO, IEEESw)
     - title: Other Services
       items:
         - <a href="https://www.sciencedirect.com/journal/science-of-computer-programming/about/editorial-board">Science of Computer Programming Social Media Editor</a> (ongoing)
@@ -125,27 +127,3 @@
         - <a href="http://sattose.org/2023">SATToSE’23 Local Arrangement Team</a>
         - <a href="https://sesalabunisa.github.io/ISSSE-2023/">ISSSE’23 Local Arrangement Team</a>
         - <a href="https://conf.researchr.org/track/icse-2022/icse-2022-student-volunteers">ICSE’22 Student Volunteer</a>
-
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Security Vulnerability Testing and Analysis
-      items: 
-        - Security Testing
-        - Automated Exploit Generation
-        - Automated Vulnerability Repair
-        - Exploitability Assessment
-        - Vulnerability Detection and Prediction
-    - title: Mining Software Repositories for Security
-      items:
-        - Security Unit Tests
-        - Vulnerability-Contributing Commits
-        - Fixing Commits
-        - Vulnerability Data Synthesis
-    - title: Other Topics
-      items:
-        - Human Aspects in Software Security
-        - Program Comprehension
-        - Software Refactoring
-        - Organizational Aspects in Software Engineering
-        - Green Software Engineering
