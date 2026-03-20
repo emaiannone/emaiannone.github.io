@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I am Emanuele (*/Eh-maa-noo-èh-leh/*), Postdoctoral Researcher (formally, a *Wissenschaftlicher Mitarbeiter*) at the [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/startseite), Germany.
 
-I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I dedicate my effort (and passion) to **software security testing**, particularly from a code-level perspective. I am employed full-time in the Horizon Europe project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/), where I am committed in a work package on **automated vulnerability repair**.
+I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I dedicate my effort (and passion) to **software security testing**, particularly from a code-level perspective. I am employed full-time in the Horizon Europe project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/), where I am committed to a work package on **automated vulnerability repair**.
 
 In February 2024, I earned a Ph.D. in **Computer Science** at the [University of Salerno (UNISA)](https://www.unisa.it/), Italy. I defended a thesis on **software vulnerabilities** in the context of **software maintenance and evolution** (thesis title: *There's Something about Vulnerabilities: Empirical Comprehension and Novel Automated Approaches*), supervised (and academically raised) by [Prof. Fabio Palomba](https://fpalomba.github.io/) at the [Software Engineering (SeSa) Lab](https://sesalabunisa.github.io).
 
@@ -29,7 +29,7 @@ My main current research interest is on **automated software security testing**,
 
 My background is rooted in *empirical software engineering*, adopting *design science* (inventing and evaluating novel technological solutions to specific research problems), *repository mining studies*, *benchmark studies*, and *experiments with human participants* (mainly, developers).
 
-I am currently working in the following research topics:
+I am currently working on the following research topics:
 
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Code-level Security/Vulnerability Test Mining**  
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Code-level Security/Vulnerability Test Generation**  
