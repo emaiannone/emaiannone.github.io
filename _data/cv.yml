@@ -62,7 +62,7 @@
     - title: Visiting Ph.D. Student 
       institution: University of Luxembourg, SnT, Luxembourg, Luxembourg
       year: 2022.10 - 2022.12
-      desctiption: "Synthesizing commit messages from bug reports using pre-trained transformers."
+      description: "Synthesizing commit messages from bug reports using pre-trained transformers."
     - title: Visiting Ph.D. Student 
       institution: Tampere University, Tampere, Finland
       year: 2022.05 - 2022.06
@@ -89,7 +89,7 @@
         - <a href="https://conf.researchr.org/committee/icpc-2021/icpc-2021-organizing-committee">ICPC'21</a> | Publicity Co-Chair
     - title: Program Commitees
       items:
-        - ICSME'26 (<a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-papers">Research</a>, <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-tool-demonstration">Tool Demonstration</a>), <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track">Industry</a>)
+        - ICSME'26 (<a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-papers">Research</a>, <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-replication-and-negative-results">Replication and Negative Results</a>, <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track">Industry</a>)
         - <a href="https://demessai.github.io/">DeMeSSAI'26</a>
         - ICST'26 (<a href="https://conf.researchr.org/track/icst-2026/icst-2026-testing-tools-and-data-showcase">Tools and Data Showcase</a>)
         - FSE'26 (<a href="https://conf.researchr.org/track/fse-2026/fse-2026-student-research-competition">Student Research Competition</a>)
