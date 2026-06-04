@@ -85,7 +85,8 @@
   contents:
     - title: Event Organization
       items:
-        - <a href="https://secute-ws.github.io/">SECUTE'24 (1st Workshop on Security Testing for Complex Software Systems</a>) | Organizing Co-Chair
+        - <a href="https://conf.researchr.org/home/ase-2026/secute-2026">SECUTE'26 (2st International Workshop on Software Security Testing)</a>, co-located with ASE'26 | Organizing Co-Chair
+        - <a href="https://conf.researchr.org/home/ease-2024/secute-2024">SECUTE'24 (1st International Workshop on Security Testing for Complex Software Systems)</a>, co-located with EASE'24 | Organizing Co-Chair
         - <a href="https://conf.researchr.org/committee/icpc-2021/icpc-2021-organizing-committee">ICPC'21</a> | Publicity Co-Chair
     - title: Program Commitees
       items:
