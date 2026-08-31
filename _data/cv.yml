@@ -14,11 +14,11 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Institute of Software Security, Hamburg University of Technology, Hamburg
+      institution: Institute of Software Security, TU Hamburg, Hamburg, Germany
       year: 2023.11 - curr.
       description:
         - "Working on code-level security vulnerability testing. in the context of DFG-funded project <a href='https://gepris.dfg.de/project/583980027/2?lang=en'>SToCC</a>."
-        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon Europe project (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>."
+        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon Europe project (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>)."
 
 - title: Education
   type: time_table
@@ -52,12 +52,12 @@
   type: time_table
   contents:
     - title: "<a href='https://gepris.dfg.de/project/583980027/2?lang=en'>SToCC</a> (DFG, grant ID: 583980027)"
-      institution: Institute of Software Security, Hamburg University of Technology, Hamburg, Germany
-      year: 01.09.2026 - curr.
+      institution: Institute of Software Security, TU Hamburg, Hamburg, Germany
+      year: 2026-09 - curr.
       description: Grant recipient and PI. Working on code-level security testing (empirical studies, generation, assessment, maintenance).
     - title: "<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a> (Horizon Europe, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
-      institution: Institute of Software Security, Hamburg University of Technology, Hamburg, Germany
-      year: 01.11.2023 - 31.08.2026
+      institution: Institute of Software Security, TU Hamburg, Hamburg, Germany
+      year: 2023.11 - 2026.08
       description: "Work Package on 'Automatic Vulnerability Repair'"
 
 - title: Research Internships
