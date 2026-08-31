@@ -19,29 +19,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Emanuele (*/Eh-maa-noo-èh-leh/*), Postdoctoral Researcher (formally, a *Wissenschaftlicher Mitarbeiter*) at the [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/startseite), Germany.
+Hello! I am Emanuele (pronounced: */Eh-maa-noo-èh-leh/*), Postdoctoral Researcher (*Wissenschaftlicher Mitarbeiter*) at the [TU Hamburg](https://www.tuhh.de/tuhh/startseite), Germany. Since 2023, I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I dedicate my effort to **software security testing**, particularly from a code-level perspective.
 
-I am part of the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute), where I dedicate my effort (and passion) to **software security testing**, particularly from a code-level perspective. I am employed full-time in the Horizon Europe project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/), where I am committed to a work package on **automated vulnerability repair**.
+Starting September 2026, I am the Principal Investigator of the DFG-funded project [SToCC: Security Testing of Code Components](https://gepris.dfg.de/project/583980027/2?lang=en). This project explores several aspects of **unit-level security tests**:
+- Nature and dynamics
+- Methods for automated generation
+- Methods for automated assessment
+- Maintainability
 
-In February 2024, I earned a Ph.D. in **Computer Science** at the [University of Salerno (UNISA)](https://www.unisa.it/), Italy. I defended a thesis on **software vulnerabilities** in the context of **software maintenance and evolution** (thesis title: *There's Something about Vulnerabilities: Empirical Comprehension and Novel Automated Approaches*), supervised (and academically raised) by [Prof. Fabio Palomba](https://fpalomba.github.io/) at the [Software Engineering (SeSa) Lab](https://sesalabunisa.github.io).
+My main research interest is on **software security testing** (covered in project [SToCC](https://gepris.dfg.de/project/583980027/2?lang=en)), as well as other topics in **software security**. My background is in *empirical software engineering*, designing and evaluating methods and techniques to solve specific research problems, performing *software repository mining*, *setting up machine learning pipelines*, running *benchmarks*, and *experiments with human participants* (developers).
 
-My main current research interest is on **automated software security testing**, which involves the creation, maintenance, and evolution of code-level security test cases using automated methods (heuristics and AI-based).
-
-My background is rooted in *empirical software engineering*, adopting *design science* (inventing and evaluating novel technological solutions to specific research problems), *repository mining studies*, *benchmark studies*, and *experiments with human participants* (mainly, developers).
-
-I am currently working on the following research topics:
+In summary, these are the topic I cover(ed):
 
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Code-level Security/Vulnerability Test Mining**  
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Code-level Security/Vulnerability Test Generation**  
-&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Code-level Security/Vulnerability Test Maintenance and Evolution**  
+&nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Code-level Security/Vulnerability Test Maintenance**  
 &nbsp;&nbsp;&nbsp;&nbsp;:bangbang: **Software Security Analytics** (i.e., MSR applied to vulnerability-related data)  
 &nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Automated Vulnerability Repair  
 &nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Secure Code Generation (and Security of AI-generated Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: LLM-based Vulnerability Detection  
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Vulnerability Detection  
 &nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Vulnerability Data Synthesis  
-&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Developer Aspects in Software Security
+&nbsp;&nbsp;&nbsp;&nbsp;:exclamation: Human Aspects in Software Security
 
-I would like to invest more time on these topics (good for new collaborations):
+I time allows, I'd like to explore these topics more (good for new collaborations):
 
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Third-party Vulnerability Assessment  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Design-level Vulnerability Detection  
@@ -51,7 +51,7 @@ I would like to invest more time on these topics (good for new collaborations):
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Vulnerable Code Comprehension  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Usable Security
 
-I have worked on the in the past, but they are currently inactive (perhaps one day...):
+I have worked on the in the past, but they are currently inactive:
 
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Exploitability Prediction and Assessment  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Vulnerability Prediction  
@@ -59,6 +59,12 @@ I have worked on the in the past, but they are currently inactive (perhaps one d
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Mobile App Energy Consumption  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Program Comprehension  
 &nbsp;&nbsp;&nbsp;&nbsp;:grey_exclamation: Software Refactoring
+
+## More About Me
+
+From November 2023 to August 2026, I have worked in the Horizon Europe project [Sec4AI4Sec](https://www.sec4ai4sec-project.eu/) in a work package on **automated vulnerability repair** with the [Institute of Software Security (SoftSec)](https://www.tuhh.de/softsec/institute) at the TU Hamburg.
+
+In February 2024, I earned a Ph.D. in **Computer Science** at the [University of Salerno (UNISA)](https://www.unisa.it/), Italy. I defended a thesis on **software vulnerabilities** in the context of **software maintenance and evolution** (thesis title: *There's Something about Vulnerabilities: Empirical Comprehension and Novel Automated Approaches*), supervised (and academically raised) by [Prof. Fabio Palomba](https://fpalomba.github.io/) at the [Software Engineering (SeSa) Lab](https://sesalabunisa.github.io).
 
 In September 2020, I earned an M.Sc. Degree in Computer Science at the University of Salerno, defending a thesis on ***Automated Exploit Generation of Known Java API vulnerabilities*** advised by Prof. F. Palomba and Prof. A. De Lucia (110/110 cum laude). Two years earlier, in July 2018, I earned a B.Sc. Degree in the same study course at the same university, defending a thesis on ***Automated Refactoring of Android-specific Energy Smells*** advised by Prof. A. De Lucia (110/110 cum laude).
 

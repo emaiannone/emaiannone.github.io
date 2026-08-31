@@ -17,8 +17,8 @@
       institution: Institute of Software Security, Hamburg University of Technology, Hamburg
       year: 2023.11 - curr.
       description:
-        - "Research on code-level security vulnerability testing."
-        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon Europe project (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)."
+        - "Working on code-level security vulnerability testing. in the context of DFG-funded project <a href='https://gepris.dfg.de/project/583980027/2?lang=en'>SToCC</a>."
+        - "Working on designing novel automated vulnerability repair solutions in the context of Horizon Europe project (<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a>."
 
 - title: Education
   type: time_table
@@ -51,9 +51,13 @@
 - title: Research Projects
   type: time_table
   contents:
-    - title: "<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a> (grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
+    - title: "<a href='https://gepris.dfg.de/project/583980027/2?lang=en'>SToCC</a> (DFG, grant ID: 583980027)"
       institution: Institute of Software Security, Hamburg University of Technology, Hamburg, Germany
-      year: 2023.11 - curr.
+      year: 01.09.2026 - curr.
+      description: Grant recipient and PI. Working on code-level security testing (empirical studies, generation, assessment, maintenance).
+    - title: "<a href='https://www.sec4ai4sec-project.eu/Sec4AI4Sec'>Sec4AI4Sec</a> (Horizon Europe, grant ID: <a href='https://cordis.europa.eu/project/id/101120393'>101120393</a>)"
+      institution: Institute of Software Security, Hamburg University of Technology, Hamburg, Germany
+      year: 01.11.2023 - 31.08.2026
       description: "Work Package on 'Automatic Vulnerability Repair'"
 
 - title: Research Internships
